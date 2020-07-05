@@ -1,0 +1,16 @@
+
+msgctxt "e448aa776d386b8a33e4f1700ba5a980"
+msgid "いい天気"
+msgstr ""
+
+msgctxt "9fdc1b46adc0c042a589b514d2a55ce0"
+msgid "すばらしい"
+msgstr ""
+
+msgctxt "31e1f3ddac9be7a67fa7cbf76207979a"
+msgid "すごい"
+msgstr ""
+
+msgctxt "dde236880f1e360042060b747347ce00"
+msgid "ばかな"
+msgstr ""
