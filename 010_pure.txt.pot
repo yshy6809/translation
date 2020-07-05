@@ -1,0 +1,3324 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+
+msgctxt "e448aa776d386b8a33e4f1700ba5a980"
+msgid "W \"Hey, when are you going back to your work?\""
+msgstr ""
+
+msgctxt "9fdc1b46adc0c042a589b514d2a55ce0"
+msgid "S \"Dad, the World Cup comes only once every 4 years.\""
+msgstr ""
+
+msgctxt "31e1f3ddac9be7a67fa7cbf76207979a"
+msgid "S \"I don’t have sports cable.\""
+msgstr ""
+
+msgctxt "dde236880f1e360042060b747347ce00"
+msgid "S \"And you’re my only father in this world.\""
+msgstr ""
+
+msgctxt "23ac02f4b2dde7ff23bf7a9ed5972b19"
+msgid "S \"Can’t I spend some time with you?\""
+msgstr ""
+
+msgctxt "9e647d8ebbe031e379f05fa8a779c7a2"
+msgid "W \"Huh? What are you saying?\""
+msgstr ""
+
+msgctxt "bf3725259a9f6b90d078407d10fc5115"
+msgid "W \"I’m worried about your future.\""
+msgstr ""
+
+msgctxt "eb709ed61e460e2cea5f83a76974a949"
+msgid "W \"You think your tapes can keep selling forever?\""
+msgstr ""
+
+msgctxt "5ff604432e42e5bceeec1f86e89f1bd1"
+msgid "W \"I keep telling you to sell more Cantonese opera recordings!\""
+msgstr ""
+
+msgctxt "e6b4793e3768f7b3604335e423d0f531"
+msgid "S \"I do have them but I want to focus more on specific films though.\""
+msgstr ""
+
+msgctxt "e87855516084ec5d6e2558d70f3bc44e"
+msgid "W \"You're in the tourist area.\""
+msgstr ""
+
+msgctxt "9969f3fe0424f447742e20d7bb10114d"
+msgid "W \"How about getting in those dubbed versions of Bruce Lee movies?\""
+msgstr ""
+
+msgctxt "fba074c20bde33b4ec62f7c3c5a64824"
+msgid ""
+"W \"Your brother is doing well for himself teaching kung fu in San Francisco."
+"\""
+msgstr ""
+
+msgctxt "d167fcd745a60207c1cefa33dc7361ab"
+msgid "W \"He's got Americans calling him master. Isn't that great?\""
+msgstr ""
+
+msgctxt "fc4da7f35aecad5496839798419868a0"
+msgid "S \"Yes, yes. That's great.\""
+msgstr ""
+
+msgctxt "7ba77996e791cfeef20a56e3f0cd29ca"
+msgid "W \"I don't get why you keep all those old foreign movies.\""
+msgstr ""
+
+msgctxt "f97736d207c88656568f752ac5432ab6"
+msgid ""
+"W \"People in Hong Kong want to see action films! Or something sexy! Or "
+"something with a bit of both!\""
+msgstr ""
+
+msgctxt "8e834bf084abacfb94316e1b53563aac"
+msgid "W \"Be smarter and more serious about your business.\""
+msgstr ""
+
+msgctxt "3ea8af5fa47afe6a2c788a321c032094"
+msgid "S \"I am serious.\""
+msgstr ""
+
+msgctxt "d5473fe641fdc58095d7c249d59394c3"
+msgid "S \"I'm trying to curate something different.\""
+msgstr ""
+
+msgctxt "8a5b6e9adb6f9db05b60539b327ebb2c"
+msgid ""
+"S \"It's not like I'm doing poorly. I'm making money, more than you think.\""
+msgstr ""
+
+msgctxt "658146a09be1580c9d229758dffd0e82"
+msgid "W \"All right...\""
+msgstr ""
+
+msgctxt "66bb996e30f8deb3a4423c1e7866a1eb"
+msgid "W \"But don’t you think this evening hour is important for business?\""
+msgstr ""
+
+msgctxt "049912e21f5ca8fbf1905a30f32942cd"
+msgid "W \"Why don't you consider hiring someone to help then?\""
+msgstr ""
+
+msgctxt "91cc562fd6d594338d1b88ee72a279f3"
+msgid "S \"Why don’t you have your shop open?\""
+msgstr ""
+
+msgctxt "b03d901a0fe1e03b392546b0d67c4663"
+msgid "W \"Well, I’m watching the football game right now.\""
+msgstr ""
+
+msgctxt "1763f9b97e2b435aa3154faec5094402"
+msgid "S \"Huh?\""
+msgstr ""
+
+msgctxt "99d68f24ae60282785b09cebd876f925"
+msgid "S \"Aren’t you as bad as me now?\""
+msgstr ""
+
+msgctxt "b7618f5f863c5ab637f95985a1a0a7c8"
+msgid "W \"It’s not like I closed up my shop completely.\""
+msgstr ""
+
+msgctxt "1cf1491769c49bd25163f17124d5a958"
+msgid "W \"If someone wants my services, they just need to give me a shout.\""
+msgstr ""
+
+msgctxt "0bf083674e433e755b59ebe0e1303a48"
+msgid "\"\\\"Excuse me!\\\"\""
+msgstr ""
+
+msgctxt "dbc9d143ec2727dbac21b3800ca3146b"
+msgid "W \"Huh? What was that?\""
+msgstr ""
+
+msgctxt "a7ce56631f4e9f50465561dcfd6abe34"
+msgid "S \"Someone's knocking.\""
+msgstr ""
+
+msgctxt "429125bf292fce390ddc6f750614c401"
+msgid "S \"You have a customer.\""
+msgstr ""
+
+msgctxt "8e0a742037a2b134d90e21b451167c75"
+msgid "W \"Oh.\""
+msgstr ""
+
+msgctxt "70eaa99694c5d5f407652218b8bcf59d"
+msgid "\"\\\"Is anyone there?”\""
+msgstr ""
+
+msgctxt "964a9652b912df5dd7600853f1600e52"
+msgid "W \"Since you’re here, can you get the gates opened up for me?\""
+msgstr ""
+
+msgctxt "31cf887f794f3b388f3e12b8ed1b8378"
+msgid "S \"Okay.\""
+msgstr ""
+
+msgctxt "f24aac09846f673448ccf6298f41d2c7"
+msgid "\"...\""
+msgstr ""
+
+msgctxt "0c4e76178389100df007504e977e9b07"
+msgid "\"When I first met Michelle, I was charmed at first glance.\""
+msgstr ""
+
+msgctxt "c4a970cb0a1271ec7ac61038aadedc31"
+msgid "\"I like women with sharp eyes.\""
+msgstr ""
+
+msgctxt "09fb4a7bb476aa0f14bb6280258c0b7e"
+msgid "\"When they look at you with that piercing gaze, I get goosebumps.\""
+msgstr ""
+
+msgctxt "c172353200f84df4e87f194794a76b1d"
+msgid "\"Anyway...\""
+msgstr ""
+
+msgctxt "c3795174b1c1fadc71464c756e4b4d72"
+msgid ""
+"\"That’s probably why when I saw Michelle looking back at me with those "
+"eyes,\""
+msgstr ""
+
+msgctxt "a16839d2f2d3f5c90f6761fca7b3f896"
+msgid ""
+"\"And seeing her dressed to the nines in a pressed blazer suit, and her feet "
+"adorned haphazardly with a pair of pink sandals...\""
+msgstr ""
+
+msgctxt "c7d7250b0d90034c3b3e387c7d696e21"
+msgid "\"I have to say it left quite an impression in my mind.\""
+msgstr ""
+
+msgctxt "3b5957376177ec8f3296629111c31244"
+msgid "\"I couldn’t help myself to tease her a little.\""
+msgstr ""
+
+msgctxt "925560945f7d74f531ea49c1e57a6623"
+msgid "\"It’s in my nature.\""
+msgstr ""
+
+msgctxt "c4281563523d0fceea61293733098007"
+msgid "\"I can’t change this part about myself.\""
+msgstr ""
+
+msgctxt "c2a80aba1f949a9050c5c8eb4d47658d"
+msgid "M \"Excuse me?\""
+msgstr ""
+
+msgctxt "17a02a94c1849000b80380a19959072c"
+msgid "S \"Oh! A customer! Wait just a moment.\""
+msgstr ""
+
+msgctxt "fbf5d325e8747e96ca3776c1f4f872ac"
+msgid "S \"Is she a regular customer?\""
+msgstr ""
+
+msgctxt "ed751856b0d8581d5ac4de524f8f5070"
+msgid "W \"That's none of your business.\""
+msgstr ""
+
+msgctxt "12b44af8ba2c43d7d103ab83ec0f62d1"
+msgid "W \"I got work to do. It's about time you get going.\""
+msgstr ""
+
+msgctxt "42b1840529770acae726c9045a0439cb"
+msgid "S \"Am I that in your way?\""
+msgstr ""
+
+msgctxt "c0b701be7f3c570c7205a7b7683601df"
+msgid "W \"Please go...\""
+msgstr ""
+
+msgctxt "beb01a5ea2c85df4bf1ee5fbf6ef4cf7"
+msgid ""
+"S \"Ah, I'm getting hungry anyway. If you're chasing me away, I'll get "
+"dinner.\""
+msgstr ""
+
+msgctxt "77d8c256dcac83588cc893c57aacb518"
+msgid "W \"I'm not chasing you away.\""
+msgstr ""
+
+msgctxt "4407e69a2eaf51ba2fd46bb50877629d"
+msgid ""
+"W \"Hey, if you're so free right now, help me pick up some take out food.\""
+msgstr ""
+
+msgctxt "5b027c76641fd0564ceb78e5fc36417e"
+msgid "S \"What do you want?\""
+msgstr ""
+
+msgctxt "ece3957ff59d6581b1a095bd0c83c985"
+msgid "W \"Anything is fine.\""
+msgstr ""
+
+msgctxt "50b43be1fd6b813b99211f7927817f17"
+msgid "S \"Western style or Chinese?\""
+msgstr ""
+
+msgctxt "e56b7db5c65ddf7150df7b51a6fd802c"
+msgid "W \"Western. Get me a chef's salad.\""
+msgstr ""
+
+msgctxt "2b253ef0443b0d37e8d8983e6ddf01cd"
+msgid "S \"Okay. One chef's salad.\""
+msgstr ""
+
+msgctxt "b4c1bc09d2d76bfec4307b5400b8a14b"
+msgid "S \"Anything else?\""
+msgstr ""
+
+msgctxt "33f708e4b808c7bde97974ab1d54f113"
+msgid "W \"Oh!\""
+msgstr ""
+
+msgctxt "a5218aebec50aa736db9da59102f4dfc"
+msgid "W \"Since you're coming back, can you pick up some crickets?\""
+msgstr ""
+
+msgctxt "8476e47aa3d961b3ca8ef6b570782ac8"
+msgid "S \"Huh? For your prized Oscar fish?\""
+msgstr ""
+
+msgctxt "f97f6be05399d881438e47e484ef7f91"
+msgid "W \"Yes. He's starving for live food.\""
+msgstr ""
+
+msgctxt "e668ccc1978d9996b4dd67a1fe779c9d"
+msgid "S \"Ehh...\""
+msgstr ""
+
+msgctxt "ece8746ae0ac3785da09ae2839f0176a"
+msgid ""
+"S \"Why can't you just throw in some cockroaches off the street instead? "
+"They're free.\""
+msgstr ""
+
+msgctxt "0027233ed1067f58102872215292a838"
+msgid "W \"That's disgusting. My poor fish.\""
+msgstr ""
+
+msgctxt "073567bbb7066f776f6d0a67dd312360"
+msgid "S \"Don't they eat bugs?\""
+msgstr ""
+
+msgctxt "ae52efb17549fa841377e9931b7a7f75"
+msgid "W \"Crazy. Cockroaches will kill it.\""
+msgstr ""
+
+msgctxt "41c2d94e8805bbb853fe33692d262a0a"
+msgid "W \"I'm not feeding something so dirty to my fish.\""
+msgstr ""
+
+msgctxt "c473dcf53c727123c6a2bbfbf90d90f9"
+msgid "S \"If it's that troublesome, just feed it flake food.\""
+msgstr ""
+
+msgctxt "7996df43c91c5e3f7716ab6b94baf482"
+msgid "W \"What...?\""
+msgstr ""
+
+msgctxt "305003655650ff1d818b11dcc4da62ee"
+msgid "W \"You don't understand.\""
+msgstr ""
+
+msgctxt "94ce10da0ac3993446b21d0034ec1946"
+msgid "W \"My fish is a primal animal.\""
+msgstr ""
+
+msgctxt "13d97c9165db9b9d36325c97360985e8"
+msgid "W \"A predator needs to hunt to satisfy his instinct to live.\""
+msgstr ""
+
+msgctxt "79164eeac354e62014130ff1edbf077f"
+msgid "S \"All right, all right. I'll get it.\""
+msgstr ""
+
+msgctxt "e84f49a359e6a7a54d31e9160ce6105a"
+msgid "S \"Anything else you want me to pick up?\""
+msgstr ""
+
+msgctxt "ecf0aa599a3948bd09f35b20d98c4c60"
+msgid "W \"Oh, get me a can of coke on your way back.\""
+msgstr ""
+
+msgctxt "321f4f53a5cfc48ac2b82f454cc1a04f"
+msgid "S \"All right.\""
+msgstr ""
+
+msgctxt "76425f0ef9f6ef8714a5c8b9daadbab3"
+msgid "\"I don't always go see my dad.\""
+msgstr ""
+
+msgctxt "3b34fb98965d1f743ad82f2f305d0051"
+msgid ""
+"\"From time to time we might meet to have dinner. Otherwise, we don’t see "
+"each other much.\""
+msgstr ""
+
+msgctxt "16b38141b726d4a840dcbf4a8c51b85b"
+msgid "\"My dad never really knew how to be a dad.\""
+msgstr ""
+
+msgctxt "221af0e7a52f891aac447a386bb892af"
+msgid ""
+"\"When I was a teenager, I got the idea that he didn’t want to be the moral "
+"compass in my life anymore.\""
+msgstr ""
+
+msgctxt "6971a08f4c9e74069bd25e9d6239a679"
+msgid "\"So I moved out.\""
+msgstr ""
+
+msgctxt "a9fbfb97364fc60c142b33cc7e5f4419"
+msgid ""
+"\"I learned that so long as my dad didn’t know about my business, he had no "
+"complaints.\""
+msgstr ""
+
+msgctxt "91796ca2d9133289e6539c12ea61765a"
+msgid ""
+"\"Age and time might have softened him, but his heart is still old and "
+"conservative.\""
+msgstr ""
+
+msgctxt "db12a28d60bcaefd6232d12a070e0b3d"
+msgid "\"If we were ever together too long, we were bound to argue.\""
+msgstr ""
+
+msgctxt "feda2fafddcba22aaa68d65c8197da6a"
+msgid "\"It was better for both of us to continue living apart.\""
+msgstr ""
+
+msgctxt "8690579d6aeec1938538d3df499f8e6d"
+msgid "\"We could live our own lives separately without much intrusion.\""
+msgstr ""
+
+msgctxt "5d18166f3571ab1646253ff1e978d2ab"
+msgid "\"He had enough to worry about already.\""
+msgstr ""
+
+msgctxt "ffafd5b416c07f41a0e9979e5b29e1ce"
+msgid "\"He does not need a daughter like me burdening him.\""
+msgstr ""
+
+msgctxt "6ba9e66405dcf5144470067965b49b88"
+msgid "\"Today, I just got a feeling my dad might have been lonely.\""
+msgstr ""
+
+msgctxt "2ee2ae10f45ed946ca7bfd555825189a"
+msgid "\"Summer time brings about a certain melancholy in my household.\""
+msgstr ""
+
+msgctxt "c697f8a39a36fdd7ad2752b2d967ea72"
+msgid "\"I went to a nearby pet store.\""
+msgstr ""
+
+msgctxt "fa8bef9f2694715d92bffd988a8a2194"
+msgid "\"It was on the way to the restaurant that I quite liked.\""
+msgstr ""
+
+msgctxt "4d7dbacc785858f4c4c522d4c48c1b1e"
+msgid "\"What I needed to pick up here for my dad was some fish food.\""
+msgstr ""
+
+msgctxt "1d494992222a4d3c6d831203014237c0"
+msgid ""
+"\"I asked the store attendant for a bag of crickets. I also grabbed a "
+"container of fish pellets for good measure.\""
+msgstr ""
+
+msgctxt "5199f69b2bc3f58b16c4eeed42308ebe"
+msgid ""
+"\"That should make my dad happy. I knew he loved watching his fish feed.\""
+msgstr ""
+
+msgctxt "4d552845f44f41fb46578a74df3572ac"
+msgid ""
+"\"Curiously, I spotted the same office lady from earlier. She was looking at "
+"the goldfish.\""
+msgstr ""
+
+msgctxt "ce46ba92bde6b73e9a4c5e122394e8cf"
+msgid "\"She appeared lost in thought in front of the tank.\""
+msgstr ""
+
+msgctxt "242099279162052557d0ff549b85a1e2"
+msgid "\"I wondered what she was thinking about.\""
+msgstr ""
+
+msgctxt "0fa0aafbfa963d88ac64b7e70dafc037"
+msgid "\"I would say I am a careful person.\""
+msgstr ""
+
+msgctxt "38cb5e0fb8e0e5a0efda2c1220f308e9"
+msgid "\"A very cautious person even.\""
+msgstr ""
+
+msgctxt "0ccb774bfae9dbbf9deaeac70b9ac5ae"
+msgid "\"I know the cues of social conduct.\""
+msgstr ""
+
+msgctxt "d208ac4db54cbffcb97d28e9a0d1d148"
+msgid ""
+"\"I certainly wouldn't stick my nose in a stranger's business without good "
+"reason.\""
+msgstr ""
+
+msgctxt "069fa5ca8a61d84508a1043d56933864"
+msgid "\"Yet there was something drawing me to keep looking her way.\""
+msgstr ""
+
+msgctxt "4aa0d61c331af9d75487ae78ff9eff4a"
+msgid ""
+"\"Something about the way she gazed at the goldfish in the aquarium had made "
+"me feel oddly nostalgic.\""
+msgstr ""
+
+msgctxt "69069dae1f94218ca280327c28de0803"
+msgid ""
+"\"There was a time in the past when my dad would have brought me to the same "
+"pet store.\""
+msgstr ""
+
+msgctxt "be5db6653d5aba556cd4bdc27b3350ad"
+msgid "\"I wasn’t even tall enough to look into the fish tanks then.\""
+msgstr ""
+
+msgctxt "0d6feeeceec4a5fe23b0aaa21c411ad9"
+msgid ""
+"\"He would have lifted me up onto his shoulders to let me look at all the "
+"fancy goldfish.\""
+msgstr ""
+
+msgctxt "a992ca080fad87402465df9238d94d82"
+msgid "\"I would look at them with innocent wonder and awe.\""
+msgstr ""
+
+msgctxt "0ff695219ac507d4909f88a14a9d3d10"
+msgid "\"That was a long time ago.\""
+msgstr ""
+
+msgctxt "fd3ea4b4a514b7723c307474c82f5450"
+msgid "\"Was she reminiscing a similar memory? I wondered.\""
+msgstr ""
+
+msgctxt "c548d608047609f1f6589bb8c1e19015"
+msgid "\"I know...\""
+msgstr ""
+
+msgctxt "55ef77a5b63440b8b26b4017e84afc5c"
+msgid "\"It wasn't my place to ask.\""
+msgstr ""
+
+msgctxt "aee0477f5110ac0b25b429b5f8ac6389"
+msgid "\"It just felt like the world was a little smaller that night.\""
+msgstr ""
+
+msgctxt "c1ff7ab155864017516487a2474ea0e6"
+msgid "\"Michelle Fong Ha Cheung.\""
+msgstr ""
+
+msgctxt "45dd0c7e3f368003985c0712175f7810"
+msgid "\"I regretted that I didn't leave Michelle my number.\""
+msgstr ""
+
+msgctxt "73c98df9045feb8758f7b47028578784"
+msgid ""
+"\"It was on the tip of my tongue when I was sending her off the other night."
+"\""
+msgstr ""
+
+msgctxt "15b85426ff871e50c91646177ff245d2"
+msgid "\"Why didn't I push to say it?\""
+msgstr ""
+
+msgctxt "7d0a9e5649bbd30b83e474436255be5d"
+msgid "\"Ah...\""
+msgstr ""
+
+msgctxt "ba2abce59cf60c48cf16b293872144c1"
+msgid "\"I was playing it too cool, I thought.\""
+msgstr ""
+
+msgctxt "72222d3e6eab295b0331020518da0fe8"
+msgid ""
+"\"I was never shy about this kind of stuff, but I really should have given "
+"her my contact at that moment.\""
+msgstr ""
+
+msgctxt "94e23c457ec0d7205028042762c68a2e"
+msgid "\"Oh well.\""
+msgstr ""
+
+msgctxt "18a54683a00d5a6c4defaf0a604a8a47"
+msgid "\"I was moping all day about it in the store.\""
+msgstr ""
+
+msgctxt "bcd7d13e42977d3f286745b7319db6f4"
+msgid "\"It was a typical day for me. Business as usual.\""
+msgstr ""
+
+msgctxt "54fc497304750870b02dda54fe3dd5c2"
+msgid "\"I would open the store at noon.\""
+msgstr ""
+
+msgctxt "cb24cb8183073ad6ac13213f750542f0"
+msgid "\"The first few hours were usually quite slow.\""
+msgstr ""
+
+msgctxt "f72ca38533cf2285a55d58da55b7dba3"
+msgid ""
+"\"It's usually not until late afternoon when people would start to stream in "
+"after their school or work.\""
+msgstr ""
+
+msgctxt "66dfb6f4d8ee7152839862255bfb18c9"
+msgid ""
+"\"Things would then pick up and it would stay pretty steady until I close "
+"the store for the night.\""
+msgstr ""
+
+msgctxt "93692b616156a7fabc48ef79c3fc26fc"
+msgid "\"It was mid-afternoon when I got a familiar visitor.\""
+msgstr ""
+
+msgctxt "a14d039bf28141195297807304319529"
+msgid ""
+"\"It was Cecilia. She drops in at my store from time to time to chit chat.\""
+msgstr ""
+
+msgctxt "1367f57c9d1c2e62651f31b6854ce57d"
+msgid ""
+"\"Sometimes it was just to catch up, and sometimes it was to solicit me to "
+"spend money at her bar.\""
+msgstr ""
+
+msgctxt "d730b9cf450dc5cc2f20c9c18bc1009c"
+msgid "\"It usually was a bit of both. She rarely had interest in movies.\""
+msgstr ""
+
+msgctxt "dbf98908f6a8c7f3866e5356e7275941"
+msgid "\"Cecilia owns a bar that's quite popular for girls in the know.\""
+msgstr ""
+
+msgctxt "0dadd72c8b0a8f16d611acb608d1a8d1"
+msgid "\"I hadn't visited her bar recently.\""
+msgstr ""
+
+msgctxt "1b28e8cd2789abf67c49123a5e9dab52"
+msgid "\"There was no particular reason why I haven't gone.\""
+msgstr ""
+
+msgctxt "352f39666d4d0dda54787a997fcdf5d6"
+msgid "\"I haven't been feeling up to it.\""
+msgstr ""
+
+msgctxt "9eef05438be6aa077ddbbd1fb61e52c3"
+msgid "\"I probably made Cecilia feel worried.\""
+msgstr ""
+
+msgctxt "17c7588ea26feb62040593af5d7fc6b5"
+msgid "\"Cecilia is like a sister and mentor figure to me.\""
+msgstr ""
+
+msgctxt "6ef8fc8ca834d62c23883e31b3d3257d"
+msgid ""
+"\"She had been with me through love-struck pining and lovelorn heartbreak.\""
+msgstr ""
+
+msgctxt "89ffde03bdec554938b7efad974854c9"
+msgid "\"She had seen me at my best and she had seen me at my worst.\""
+msgstr ""
+
+msgctxt "811c3379688f13e9aa897fa2eddaf1d1"
+msgid ""
+"\"Cecilia was probably the only person that I trust enough to talk to her "
+"about my personal issues.\""
+msgstr ""
+
+msgctxt "7d9e5d39ce7b5d723d900ea7ad58c524"
+msgid ""
+"\"When things weren’t good with my dad those odd years ago, she helped me "
+"find work and a place to stay.\""
+msgstr ""
+
+msgctxt "9125eaad4e09c73677d57dd7c1687251"
+msgid ""
+"\"I used to be so headstrong, especially when it came to anything about what "
+"my dad had to say.\""
+msgstr ""
+
+msgctxt "40d29afa3af05e11cb17c37536ea4aa1"
+msgid "\"If I hadn’t met her, I’m not sure where I would have ended up.\""
+msgstr ""
+
+msgctxt "1a00a51bd1cf3da55efeda203c424cd5"
+msgid "E \"Ah, Samantha!\""
+msgstr ""
+
+msgctxt "832af66d236a61393bc65e94ddfc5f08"
+msgid "E \"Don't forget to come by tonight.\""
+msgstr ""
+
+msgctxt "54c70c9d5d8e92e86b934f552dd18d77"
+msgid "E \"I have performers.\""
+msgstr ""
+
+msgctxt "7644011197ebab24ee5cf8dfdd34bb52"
+msgid "E \"I need a big crowd to keep the energy.\""
+msgstr ""
+
+msgctxt "84d59625b6bb2aecc6824fc01a77bc23"
+msgid "S \"Of course I won't forget.\""
+msgstr ""
+
+msgctxt "d6158ae0eb3ddf91d98e049fb17d7a30"
+msgid "S \"I wouldn't have dressed up otherwise.\""
+msgstr ""
+
+msgctxt "804df03ad2b6d84eb9ddf26502c6444a"
+msgid "E \"Hmmm.\""
+msgstr ""
+
+msgctxt "d7b6307d17079ba1e456db80b95f5f51"
+msgid "E \"You better come!\""
+msgstr ""
+
+msgctxt "dea2937a0ad790fe254d7f1903789b1f"
+msgid "E \"I haven't seen you come by at all these days.\""
+msgstr ""
+
+msgctxt "2054d3fc0f7c8c6897f00177d5d71847"
+msgid "E \"Did something happen to you?\""
+msgstr ""
+
+msgctxt "0124cea6f19754dc5225b717ffd12f6c"
+msgid "S \"Eh? Not really.\""
+msgstr ""
+
+msgctxt "6dc12736835053babd8392ade94c6339"
+msgid "S \"I've been busy with the video store.\""
+msgstr ""
+
+msgctxt "3538bdfaf603357d7e1439a5568e52e7"
+msgid "S \"And I haven't been really feeling it.\""
+msgstr ""
+
+msgctxt "3d5a7912ffed0c974b312ac24f98c4a3"
+msgid "E \"Is that really so?\""
+msgstr ""
+
+msgctxt "2f06833f59deb4666ae573260793e70d"
+msgid "E \"Not feeling it...? Coming from you?\""
+msgstr ""
+
+msgctxt "2826a9052e1527218a88c4c9917ff5f1"
+msgid "E \"Don't tell me the diamond's losing its shine.\""
+msgstr ""
+
+msgctxt "ca316f82c57a4d24b37fb58aebb8384b"
+msgid "S \"I don't know. I guess I'm getting older.\""
+msgstr ""
+
+msgctxt "3cbd7f49f68a334cca6d27f6597576a1"
+msgid "E \"You're joking!\""
+msgstr ""
+
+msgctxt "75b7d2337ba566eafc98c10171d93123"
+msgid ""
+"E \"You're so young. I have white-haired ladies that still drop by from time "
+"to time.\""
+msgstr ""
+
+msgctxt "0f0141d7000d86bda38e802a03968097"
+msgid "E \"Tell me, is there someone there you're trying to avoid?\""
+msgstr ""
+
+msgctxt "d230814de062cba7fc2c735415a560f7"
+msgid "S \"No.\""
+msgstr ""
+
+msgctxt "d882042a1501f969d3ad0eddb27f89cd"
+msgid "E \"Hm...\""
+msgstr ""
+
+msgctxt "a063fff62b9798aa648687e788077e29"
+msgid "E \"Then why have you been sighing all this time?\""
+msgstr ""
+
+msgctxt "c004980d3713032e82734effaeab3625"
+msgid "E \"There must be something on your mind.\""
+msgstr ""
+
+msgctxt "884e3610fc6a84db57a90a0e8cf6124c"
+msgid "S \"Eh?\""
+msgstr ""
+
+msgctxt "73e7ec7e2702270c899adc7e69a9419e"
+msgid "S \"Really? Have I sighed that much?\""
+msgstr ""
+
+msgctxt "ae4302231f23bdd7bc234d9499c47379"
+msgid "E \"You have.\""
+msgstr ""
+
+msgctxt "d1b026e0be01b12f48f372a8fa710c2c"
+msgid "E \"Is it Mabel?\""
+msgstr ""
+
+msgctxt "918fe7360efb4a13626ae0d1a0296a52"
+msgid "E \"You know, she doesn't work at Ruby anymore.\""
+msgstr ""
+
+msgctxt "c21069ec151a7d7718fdb52e9153d910"
+msgid "S \"No, no. There's nothing like that between us anymore.\""
+msgstr ""
+
+msgctxt "982b3f6db98f49b783a1f99b8b8608f6"
+msgid "E \"Then what is it?\""
+msgstr ""
+
+msgctxt "fdad21ae67bd2b8de614dbc2db13c33c"
+msgid "S \"I met this woman.\""
+msgstr ""
+
+msgctxt "9891d47d1640ef81962edca42afd957b"
+msgid "E \"Oho. And?\""
+msgstr ""
+
+msgctxt "d155227947c65be996617e6656318769"
+msgid "S \"That's it.\""
+msgstr ""
+
+msgctxt "7cfb3d6fd4e926d19880bb83b22a961a"
+msgid "E \"That's it?\""
+msgstr ""
+
+msgctxt "7e3796fb345d1eaa4f6bba2d629e0be0"
+msgid "E \"Unusual of you to be this pitiful.\""
+msgstr ""
+
+msgctxt "65be7450d84ec93d57113a9dcba50019"
+msgid "E \"What is she like?\""
+msgstr ""
+
+msgctxt "72f74d3adcc35686aa379090fc647ea4"
+msgid "E \"Do I know her?\""
+msgstr ""
+
+msgctxt "4d1f171e2f1672ff114c259456852cd7"
+msgid "S \"Her name is Michelle.\""
+msgstr ""
+
+msgctxt "6536d61f603249e2d270db2ba79a5cac"
+msgid "S \"I don't think you know her.\""
+msgstr ""
+
+msgctxt "17c1196b25ae6ca12d7fd98c9c18d670"
+msgid "S \"She's an office lady.\""
+msgstr ""
+
+msgctxt "6cb961a440f0e7ecb13569199908de18"
+msgid ""
+"S \"I met her the other day when she was getting her shoes fixed at my dad's "
+"store.\""
+msgstr ""
+
+msgctxt "29176ab3e46fca7a257ea0d294f2667a"
+msgid "S \"I didn't really get her contact or anything.\""
+msgstr ""
+
+msgctxt "376dc7a4282003689d864bd1528636fd"
+msgid "S \"But I think we had hit it off pretty well.\""
+msgstr ""
+
+msgctxt "af26baaa54a606dc6f3824698bf92643"
+msgid "E \"Huh?\""
+msgstr ""
+
+msgctxt "c8cdff8b3be9e08a2194c8a953108f77"
+msgid "E \"When did you like vanilla flavour?\""
+msgstr ""
+
+msgctxt "66c69fcfd7a8321fc2b4882e517abe59"
+msgid "S \"What?\""
+msgstr ""
+
+msgctxt "f23f51c0e2acbfc0177ab607803f7b24"
+msgid "S \"Don't say that about Michelle.\""
+msgstr ""
+
+msgctxt "ad337caf1a6196940763ac4910005909"
+msgid "E \"Are you delusional?\""
+msgstr ""
+
+msgctxt "3c6ccf6112e1daefeca5512e2c1069b5"
+msgid "E \"What happened to you?\""
+msgstr ""
+
+msgctxt "55b629409bd7a48e6506d44a165ec647"
+msgid "S \"What is it?\""
+msgstr ""
+
+msgctxt "95dc013bfeec4bacd28f1e6a47288fe7"
+msgid "E \"Let me tell you as your sworn sister.\""
+msgstr ""
+
+msgctxt "50b8db48037ea23ad6faf7536897e9e2"
+msgid "E \"Don't get your hopes up.\""
+msgstr ""
+
+msgctxt "88dd2ff927bde747d73ee85052c40f50"
+msgid "S \"...\""
+msgstr ""
+
+msgctxt "eaa8e0591c7eae2d8545eef2e58f7359"
+msgid "E \"An OL wouldn't want to have anything to do with you.\""
+msgstr ""
+
+msgctxt "6f97b4d78d6f921a244a5bdce5a5cbd5"
+msgid "E \"Fun and games, maybe. But don't think it will be anything more.\""
+msgstr ""
+
+msgctxt "66b12978420239b04c6697b51c57956a"
+msgid ""
+"E \"In fact, someone with an appearance like that is more dangerous than you "
+"think.\""
+msgstr ""
+
+msgctxt "63525cbc644c7c3da7b947c3afbff66a"
+msgid ""
+"S \"Hm. Just because you've had bad experiences doesn't make it universal.\""
+msgstr ""
+
+msgctxt "90d85613dcea63b093b3bb44443a5260"
+msgid "E \"I'm teaching you a lesson.\""
+msgstr ""
+
+msgctxt "cb15b59690f9c89bc5036599270f2cc2"
+msgid "S \"All right. Let's see about it then.\""
+msgstr ""
+
+msgctxt "8abac36e746691e6e49d3d96c699719b"
+msgid "S \"I think it's something.\""
+msgstr ""
+
+msgctxt "5d6ebeda5d9cc9d63bcfc88528f7714b"
+msgid "E \"Something in your head.\""
+msgstr ""
+
+msgctxt "798cfeeba096ff5168a22021fb831a62"
+msgid "E \"Well, I'll believe it when I see it.\""
+msgstr ""
+
+msgctxt "a8c25610c34298079918018471eba961"
+msgid "E \"Hm. You're sure confident.\""
+msgstr ""
+
+msgctxt "61267e4a122bdd17f7a9322f72776d95"
+msgid "S \"It's not like that.\""
+msgstr ""
+
+msgctxt "a58ca94811818070d13f4bf76a33cd31"
+msgid "S \"I feel we connect.\""
+msgstr ""
+
+msgctxt "c8b749b9c3c1cb1ddce461f2165ed9ff"
+msgid "S \"When we talk, I get a good feeling.\""
+msgstr ""
+
+msgctxt "b2510169587ca96bd6dee0ecf5e40555"
+msgid "S \"I know we just met... It's hard for me to explain it.\""
+msgstr ""
+
+msgctxt "0014e96edcdcf07314941b8b9fce84d1"
+msgid ""
+"S \"The feeling I have is like one of those stick on pads for back pain.\""
+msgstr ""
+
+msgctxt "9ea4cbb363496a541c40aaebd3f23455"
+msgid "S \"It starts off icy cold and then gets really hot.\""
+msgstr ""
+
+msgctxt "8e40d81e08b72f13774df23adb61e54c"
+msgid "S \"You know, the ones you buy in the big bright drug stores.\""
+msgstr ""
+
+msgctxt "a3af3428b4c2a1e74e2f6285c166365e"
+msgid "S \"I think it's like that.\""
+msgstr ""
+
+msgctxt "5a3546ca43884ca232aba6f58c36edf5"
+msgid "E \"Uh huh.\""
+msgstr ""
+
+msgctxt "d283cc2bf29346a0566e6fb9bc46b316"
+msgid ""
+"E \"If you need medicine, you should try the Chinese herbs that I recommend "
+"instead.\""
+msgstr ""
+
+msgctxt "52457377b2f4781dee440d5d5fc1def3"
+msgid "E \"More trustworthy.\""
+msgstr ""
+
+msgctxt "ab3e1283ae1783514fdd085d03d00629"
+msgid "E \"I don't get why you like this type.\""
+msgstr ""
+
+msgctxt "dd7f5ecd27f16c42fcaad9d875d059b1"
+msgid "S \"I don't know.\""
+msgstr ""
+
+msgctxt "4139bff89a5827a3a16dadd4efa0d958"
+msgid ""
+"S \"She seems to me like a straightforward person, but I feel she has "
+"something quite interesting underneath her exterior.\""
+msgstr ""
+
+msgctxt "7c9a8d2aa04530c3029773200c9122e4"
+msgid "S \"I want to get to know the person underneath.\""
+msgstr ""
+
+msgctxt "a2e20eff332b83522ee52f40bdc80494"
+msgid "S \"And I feel she's interested in me like that too.\""
+msgstr ""
+
+msgctxt "36bf98be0f22b62745086da3b23087c2"
+msgid "E \"Huh? Is that so?\""
+msgstr ""
+
+msgctxt "68fb65b8823af9a5c6e4595fe4294ff5"
+msgid "E \"I'm surprised. I have never seen you like this before.\""
+msgstr ""
+
+msgctxt "a37fde48f9b8fa00057620d4ff590587"
+msgid "E \"Don't cry to me when you get heartbroken.\""
+msgstr ""
+
+msgctxt "6419df98b8e39d3c53c1dbe7245ce9d4"
+msgid "S \"I'll try not to.\""
+msgstr ""
+
+msgctxt "be0e6fac52fed5913e4563f01b6a060f"
+msgid ""
+"E \"Well if you do end up heartbroken, I really don't mind if you come to me."
+"\""
+msgstr ""
+
+msgctxt "5f2bdceb6eb439ee23fb988db6f45a39"
+msgid "E \"One of these days you have to take me up on a trip to Brazil!\""
+msgstr ""
+
+msgctxt "5be1dd636f95133b20065b922283a1ac"
+msgid "S \"Brazil?\""
+msgstr ""
+
+msgctxt "af0e36aba8252be81c079b95a158983f"
+msgid "S \"That's too expensive for me!\""
+msgstr ""
+
+msgctxt "10f872a07c691870127beb03f58b740b"
+msgid "E \"I never asked you to spend your money.\""
+msgstr ""
+
+msgctxt "5b0e139292f5e1e82bac46aa398714de"
+msgid "E \"Just hold my bags and take some photos for me, all right?\""
+msgstr ""
+
+msgctxt "aab3dc78acb442828aa5509d6913eb0a"
+msgid "S \"Cecilia...\""
+msgstr ""
+
+msgctxt "2e593d4afd63d6f1bfa0e585b705d4ab"
+msgid "E \"Well, I'd love to chat more but I better get going.\""
+msgstr ""
+
+msgctxt "376cf571b6fa60745c199c99d214fa59"
+msgid "E \"I'll see you tonight.\""
+msgstr ""
+
+msgctxt "3254385e1d515c224d6ddfbf6a9ee670"
+msgid "E \"...You better come or else!\""
+msgstr ""
+
+msgctxt "f24817f6a79c8247a711760434c34b03"
+msgid "S \"Sure, sure. Bye bye, big sis.\""
+msgstr ""
+
+msgctxt "f486ba71f8086088f18ffa8bdc4ec382"
+msgid "\"I know Cecilia was only looking out for me.\""
+msgstr ""
+
+msgctxt "ad8033599c85cebe826f447e64165db2"
+msgid "\"It was a long shot for me to meet Michelle again.\""
+msgstr ""
+
+msgctxt "15d16641dcf5cf594040ca7c7bbd3859"
+msgid ""
+"\"It was a big, big world, and I got nothing else that connected me to "
+"Michelle.\""
+msgstr ""
+
+msgctxt "febc583b448205c5674da86e7a0d271e"
+msgid "\"But somehow, by the luck of the gods,\""
+msgstr ""
+
+msgctxt "2ab9612c04aa585e170fbd87a119b384"
+msgid "\"Michelle really did come by to see me\""
+msgstr ""
+
+msgctxt "1ee26c0fa6246b08642e30584d8287fb"
+msgid ""
+"\"I hoped this little miracle didn’t use up whatever luck I had entirely.\""
+msgstr ""
+
+msgctxt "a7400f5150df06533cc631b01a24a647"
+msgid "\"Cecilia would be surprised I bet.\""
+msgstr ""
+
+msgctxt "4ce616e0b9878fe70909252502d9a640"
+msgid "\"I couldn't wait to let her know.\""
+msgstr ""
+
+msgctxt "5074946b9d0c9ba5cff5f0503ed54e72"
+msgid "\"She's my closest friend.\""
+msgstr ""
+
+msgctxt "adfeffd34b268b76630adea379245a85"
+msgid "\"I wonder what she'll think.\""
+msgstr ""
+
+msgctxt "0d33f4eeae56f90180a2b8355747ed2d"
+msgid ""
+"\"I haven’t felt so anxiously worked up about something in such a long while."
+"\""
+msgstr ""
+
+msgctxt "122cd9bd2c32c32d8cbe2258250939c2"
+msgid ""
+"\"Always dancing on the fine line of subtlety, between intent and indecision."
+"\""
+msgstr ""
+
+msgctxt "ed5fcce7e51770ec1ad18ed0d68ef82e"
+msgid ""
+"\"Such is the reality of living between the margins of good and poor society."
+"\""
+msgstr ""
+
+msgctxt "6784141fb473553ba53513af26a31b45"
+msgid "\"I knew in my gut I could not and should not push more than this.\""
+msgstr ""
+
+msgctxt "379ed5bb4080b5ee926783181af1e95a"
+msgid ""
+"\"But was I in the wrong? Was I overthinking? Was it all a personal "
+"delusion?\""
+msgstr ""
+
+msgctxt "bd39348f2493186ddca2db9bdeaad095"
+msgid "\"I know, I haven’t made my intentions clear and neither did Michelle.\""
+msgstr ""
+
+msgctxt "b96bec58a5a1c73e78c53a434187e831"
+msgid "\"There was an etiquette to follow in everything.\""
+msgstr ""
+
+msgctxt "8428e397f98084a56bb10ab1380d15da"
+msgid "\"If only I had been a man, it would have been all too evident.\""
+msgstr ""
+
+msgctxt "cbe3e83b5168239141efbbda1b6fe84f"
+msgid ""
+"\"Some people prefer things like lukewarm water, but I couldn't stand it.\""
+msgstr ""
+
+msgctxt "f2811a2bc1fa4a7e32c947230b8dc837"
+msgid "\"Give me something ice cold or scalding hot. Indigestion be damned.\""
+msgstr ""
+
+msgctxt "1e449f3fdcf860e57103be5fa739eb36"
+msgid ""
+"\"I suppose though, if I were a man, someone like Michelle would have never "
+"gone along with me.\""
+msgstr ""
+
+msgctxt "4c1232e6fb04d742aa70f78e821fa05f"
+msgid "\"What do you do?\""
+msgstr ""
+
+msgctxt "1615caa126e865be3a63b4ea79fe62b5"
+msgid "\"My mother in heaven, I’m sorry.\""
+msgstr ""
+
+msgctxt "66798d4fc2e390fca97d4863e16152e5"
+msgid "\"You’re watching over an errant daughter.\""
+msgstr ""
+
+msgctxt "29c98382d2c7574e1e6b05c62122d93e"
+msgid ""
+"\"Please, if you are hearing my prayers, please give me the strength and "
+"courage to live out the best and most righteous life.\""
+msgstr ""
+
+msgctxt "e3986b6437537b9ceb5a050a7a73039f"
+msgid "\"I watched Michelle dial a number from my phone.\""
+msgstr ""
+
+msgctxt "81cd16ae069e8a2423fa859811137c6b"
+msgid "\"I was cool. I was as composed as the ocean.\""
+msgstr ""
+
+msgctxt "535770ac6f0a08b88e351d2fa15b090e"
+msgid "\"Michelle would call for a ride home. And I would return to the sea.\""
+msgstr ""
+
+msgctxt "7f3fd8500a2dbbc03b1d7065b54e5e38"
+msgid "\"But it wasn't as if fish were without desire.\""
+msgstr ""
+
+msgctxt "03c4499fcf43534685074d8cd0cef405"
+msgid "\"It happened organically.\""
+msgstr ""
+
+msgctxt "7d5963a10569b82aa26dba76fbd18273"
+msgid "\"Our first kiss.\""
+msgstr ""
+
+msgctxt "f10de9cda448433d2f645be042db8e4c"
+msgid "\"I admit the ambience wasn’t quite romantic.\""
+msgstr ""
+
+msgctxt "aaa819ae938ac16cad01f70e88998b9e"
+msgid ""
+"\"The lighting did not really bring out the most flattering complexion in "
+"either of us.\""
+msgstr ""
+
+msgctxt "d0c1a512f76978de4802b5e9a5b4c5c4"
+msgid "\"I could hear the Fong’s loud talking again.\""
+msgstr ""
+
+msgctxt "62262f78b0b666af6241c810c46a28b3"
+msgid ""
+"\"The smell of Auntie Lee’s cooking next door was a temptation of its own.\""
+msgstr ""
+
+msgctxt "2f59993359950203a5d80a5cf856efe5"
+msgid "\"But it was sweet, our kiss.\""
+msgstr ""
+
+msgctxt "265409a1978fc2856c9cc14d1c794ae5"
+msgid "\"And it was real.\""
+msgstr ""
+
+msgctxt "069c69f544d058d9e92b4c31bc186a9c"
+msgid "\"Michelle,\""
+msgstr ""
+
+msgctxt "b99355c3859ba0949e11c05925c894a5"
+msgid "\"I don’t know any other way to convey my feelings to you.\""
+msgstr ""
+
+msgctxt "20b9f1422aaaefa02153551a9cca29c3"
+msgid "\"Please, if you're going to push me away, do it now.\""
+msgstr ""
+
+msgctxt "6f1143383d375088bcb83bb26daaf8c5"
+msgid "\"Michelle quietly accepted the kiss.\""
+msgstr ""
+
+msgctxt "ba0d49a267474dd604fdecb6f5331afa"
+msgid "\"It was a tender moment we shared.\""
+msgstr ""
+
+msgctxt "32758aac571efce30b39174ce86857dc"
+msgid "\"When I opened my eyes, Michelle looked away from me.\""
+msgstr ""
+
+msgctxt "25a4dc2b70ecd4896eaf7a7fa93bb3e7"
+msgid ""
+"\"She pushed me aside, gathered her belongings, and left without another "
+"word.\""
+msgstr ""
+
+msgctxt "749a4b822bc242ee516658fd62dc7667"
+msgid "\"Michelle is a person within the margins of society.\""
+msgstr ""
+
+msgctxt "3cc10ef71aec30a88b5f7ea9614c0864"
+msgid "\"I was thinking that she might have felt differently about me.\""
+msgstr ""
+
+msgctxt "5ad199bcc311affd7ba9599dc879de78"
+msgid ""
+"\"Though I knew from the beginning that it would be difficult for someone "
+"like her to accept such a thing.\""
+msgstr ""
+
+msgctxt "d164c1c74cbdb7fff885f3d425c75996"
+msgid ""
+"\"The idea of romance between two women had probably never crossed her mind "
+"before...\""
+msgstr ""
+
+msgctxt "1ebb66c519135c2db15e6a1716433d0f"
+msgid "\"Would she want more than this?\""
+msgstr ""
+
+msgctxt "f228d6c62e940219ebc1393f885e1f79"
+msgid "\"Would she want to pursue this further?\""
+msgstr ""
+
+msgctxt "e0caa94d5efc5c24e17f9dc047b8eef1"
+msgid "\"Michelle left the apartment in a rush.\""
+msgstr ""
+
+msgctxt "f106793fb8617b31aaedbda83612adf7"
+msgid "\"When I saw her leave in a taxi from my balcony window...\""
+msgstr ""
+
+msgctxt "b76c1217c59dc3f82d660acd1ec9bc7d"
+msgid "\"It had hurt.\""
+msgstr ""
+
+msgctxt "f719938351101ec96d787655ce0c3d01"
+msgid "\"It had hurt so much.\""
+msgstr ""
+
+msgctxt "077cc4c52a99575623bbbbbefee00fb5"
+msgid "\"I didn't know if I would see her again.\""
+msgstr ""
+
+msgctxt "23b8b7f93e9ae3c7906243c6b131ffb4"
+msgid "\"I wished sometimes... That...\""
+msgstr ""
+
+msgctxt "1792384c82c9dcbb1250ae956f56724e"
+msgid "\"It wasn't like this.\""
+msgstr ""
+
+msgctxt "a4002a4d87a63693573736c2d7e61672"
+msgid "\"Mother in heaven,\""
+msgstr ""
+
+msgctxt "2e9d1a313f94f665fe9da70577c9f65d"
+msgid "\"I’ve become a wayward daughter.\""
+msgstr ""
+
+msgctxt "57f51ba4c8c9cfe8071a7b2293746142"
+msgid "\"I was 12 years old when I had my first period.\""
+msgstr ""
+
+msgctxt "1e66252e2a1227c9d37322dc6547454c"
+msgid ""
+"\"When I told my brother about it then, he said I should talk to my dad "
+"instead.\""
+msgstr ""
+
+msgctxt "319b60933e8341a4426acb16c8d440c7"
+msgid ""
+"\"When I told my dad, he said I should go to the drug store to get medicine."
+"\""
+msgstr ""
+
+msgctxt "975469fab0c1c70ec46a1943fe13899e"
+msgid ""
+"\"When I asked the man at the drug store counter what medicine I should get "
+"for bleeding, he told me to go to the hospital.\""
+msgstr ""
+
+msgctxt "3796d8e0562be5a6b7310428b9dca592"
+msgid ""
+"\"I was scared. I really thought that I was going to die and join you in "
+"heaven, you know!\""
+msgstr ""
+
+msgctxt "c4f32baa8bc38c0689dff1358aa9047c"
+msgid ""
+"\"I told this whole story to the nurse at the hospital reception and she "
+"just laughed and handed me a sanitary pad.\""
+msgstr ""
+
+msgctxt "dc0bcf69eeadf68365d2aacda72fc083"
+msgid ""
+"\"She said that I was an adult now and that I just have to get used to "
+"monthly bleeding.\""
+msgstr ""
+
+msgctxt "1d0c29cd840221e5cd1709f7d62e316a"
+msgid ""
+"\"I realized then that I was different from my brother and father, in terms "
+"of treatment and biology.\""
+msgstr ""
+
+msgctxt "980a69a3dc1a2500ed7ec77015cd5215"
+msgid "\"And I think since then, I became conscious of myself.\""
+msgstr ""
+
+msgctxt "b59e6f47615100672a39f0e631ea6ee3"
+msgid "\"I wanted to be the daughter that I imagined you would have wanted.\""
+msgstr ""
+
+msgctxt "ad492cc919781585e2d9b846e85b380a"
+msgid "\"I really did.\""
+msgstr ""
+
+msgctxt "52c05596d86a489a862a86f6c76f622a"
+msgid "\"But things sometimes don’t go the way you want it to go.\""
+msgstr ""
+
+msgctxt "ec53c976717abaf98d8dfdf5d88fdf55"
+msgid ""
+"\"I remember when I was 13, when all my friends were talking about their "
+"crushes,\""
+msgstr ""
+
+msgctxt "0b8252246bd0be4aa5457a62e7df8cac"
+msgid "\"I couldn't join in on their conversation.\""
+msgstr ""
+
+msgctxt "114298a71664b7f6dc03d778f8b704ad"
+msgid "\"I felt I was no longer growing up along with them at the same pace.\""
+msgstr ""
+
+msgctxt "ec216a349c8df0123cdbd6811c660527"
+msgid ""
+"\"I was first among them to get my period, but I was last to feel a simple "
+"crush.\""
+msgstr ""
+
+msgctxt "ac4f7bde5c7bfebc51c933e3c89e8f0e"
+msgid "\"How could that be?\""
+msgstr ""
+
+msgctxt "1ef29e28b90a9c54e95f7826c972b820"
+msgid "\"They said I was a late bloomer.\""
+msgstr ""
+
+msgctxt "7d6a480057646391c6615d3be2f4e3e3"
+msgid ""
+"\"But years had passed and I could never really bring myself to like another "
+"boy.\""
+msgstr ""
+
+msgctxt "95ea22c3c1936c2b90de7eab486aafe4"
+msgid "\"It troubled me.\""
+msgstr ""
+
+msgctxt "61a7bb23db481409da62476ea2b8113d"
+msgid "\"If I couldn’t find a boy that I liked,\""
+msgstr ""
+
+msgctxt "50854650d2678f41ef4b1c5c59719518"
+msgid ""
+"\"How would I be able to get married and become a good mother like yourself "
+"someday?\""
+msgstr ""
+
+msgctxt "af57ef7b441a361aa4eac167812d9317"
+msgid "\"The thought troubled me deeply then...\""
+msgstr ""
+
+msgctxt "0603ac8cf4e9a5eee36df213417cc9d2"
+msgid "\"And then it happened.\""
+msgstr ""
+
+msgctxt "880e1ee587f36c766c7294f9398414ba"
+msgid "\"When I was 16, a girl in my class said she liked me.\""
+msgstr ""
+
+msgctxt "dea9963b37c4201cadccbc9649704588"
+msgid "\"And I liked her back.\""
+msgstr ""
+
+msgctxt "92a0229f1790ce80c55862fb98824b3d"
+msgid "\"Simple as that. It just felt right.\""
+msgstr ""
+
+msgctxt "8c43c18cac60915e478f8ec3ecdcb2c6"
+msgid "\"Maybe I was born with this wayward spirit.\""
+msgstr ""
+
+msgctxt "54cdc1aebf512a72eccdf7f6caa3a349"
+msgid "\"I don't know why I have this inclination in me.\""
+msgstr ""
+
+msgctxt "e5fb954f993ba2a2b660b9328328c68f"
+msgid "\"Was I a bad person? Was I in the wrong?\""
+msgstr ""
+
+msgctxt "1f7552145dcf8fb37abe1a09f699b4cb"
+msgid "\"In the end, I decided it wasn't anything to be ashamed about.\""
+msgstr ""
+
+msgctxt "0422ba86624e3f75a6943dc680ea902f"
+msgid "\"It was too much to think about.\""
+msgstr ""
+
+msgctxt "c917f3c9d48f9632be37142889bfe9e0"
+msgid "\"I never meant to hurt anyone.\""
+msgstr ""
+
+msgctxt "5e546e43d525f3ca2a4216f815934899"
+msgid "\"Especially not you, and not dad.\""
+msgstr ""
+
+msgctxt "1aa55b1e7d50010663beb42e2221f70c"
+msgid "\"Oh mother in heaven,\""
+msgstr ""
+
+msgctxt "c0eaa9e013efd9118cf9e0f9f450f29a"
+msgid "\"I know you’re always watching me from above.\""
+msgstr ""
+
+msgctxt "342730a5e4669500e145677b71a53bf1"
+msgid ""
+"\"Please don’t think that it was your fault or your absence that made me "
+"become this way.\""
+msgstr ""
+
+msgctxt "0c31e6f097645ff80aa1d3190282f956"
+msgid "\"I hope you can see this from above and understand, mother.\""
+msgstr ""
+
+msgctxt "17dbb667466a407fdff34263ec0941f4"
+msgid "\"Please forgive me if I've made you sad.\""
+msgstr ""
+
+msgctxt "081a49bf0e151dbb472ee3fe6639c045"
+msgid ""
+"\"I’m doing my best to be a good, honest person for myself and everyone.\""
+msgstr ""
+
+msgctxt "9d16746f5230c79064d36cb0629682ed"
+msgid "\"I wasn't a good daughter to my father.\""
+msgstr ""
+
+msgctxt "5251e2bc79fa3585b987a9b9c59b8fff"
+msgid "\"But things between us aren't so bad anymore.\""
+msgstr ""
+
+msgctxt "2340f4261165b647ea0dbe13c08fe362"
+msgid "\"It has been 10 years since then.\""
+msgstr ""
+
+msgctxt "ad4f619063c9981ff4ca358f13a4354a"
+msgid "\"Looking back, I can't believe I still did that.\""
+msgstr ""
+
+msgctxt "2e4d043afe33299112fd48289875d875"
+msgid ""
+"\"Leaving home the way that I did when I was still fresh from high school.\""
+msgstr ""
+
+msgctxt "93a4e968d8dd0bb077b7293da89273a6"
+msgid "\"My brother had already left for America.\""
+msgstr ""
+
+msgctxt "baa1bad4a20dec4ee3e504fa4afa1332"
+msgid "\"It was just me and my dad at home at that time.\""
+msgstr ""
+
+msgctxt "a3d9a09f1df9d6beac023e3db40bec27"
+msgid "\"I had gotten into a big argument with my dad.\""
+msgstr ""
+
+msgctxt "3fc32158a3f8da6ee54b50e4fed5b231"
+msgid ""
+"\"He did not agree with my after school activities or the relationships I "
+"chose to pursue.\""
+msgstr ""
+
+msgctxt "6a2f535949832a3b523965683242f2a0"
+msgid "\"It wasn't normal for a girl my age to leave home.\""
+msgstr ""
+
+msgctxt "c6a7a92bafdbeb1d2a821c49f0093493"
+msgid "\"But it felt as if I had no other choice then.\""
+msgstr ""
+
+msgctxt "840cf6f7a0393c52e091aee30a27894d"
+msgid ""
+"\"I couldn't bear it to be shamed and berated by my own flesh and blood day "
+"after day.\""
+msgstr ""
+
+msgctxt "8a492eccaf28878ae7a92791d4ae84dd"
+msgid "\"So rather than bending to my father's will, I left home.\""
+msgstr ""
+
+msgctxt "c00ece697f34b5c61561e3a6658b3bea"
+msgid "\"I'd be like my brother and live my own life.\""
+msgstr ""
+
+msgctxt "e0ee2031b1dd909dc9050101fb5c5583"
+msgid "\"I had a hard time making it out there on my own at first.\""
+msgstr ""
+
+msgctxt "b0df47fa9e70eb1e057a58fe3c8f0150"
+msgid "\"I spent many sleepless nights wandering the city.\""
+msgstr ""
+
+msgctxt "1b343c03765dba9bd51973d143c56c5a"
+msgid ""
+"\"I hadn't quite finished high school, so I had a hard time finding a job "
+"that could afford much of anything.\""
+msgstr ""
+
+msgctxt "888d0e6a823538d3adb241a4c4a21030"
+msgid "\"I was running out of money fast.\""
+msgstr ""
+
+msgctxt "3217fb35d9399c3544919f33c1aa3928"
+msgid ""
+"\"All I took with me was a bag of clothes and whatever cash I could find in "
+"the house.\""
+msgstr ""
+
+msgctxt "415742f88e6fa06f5ab81a54310514ce"
+msgid "\"Odd jobs here and there weren't enough to cover my living expenses.\""
+msgstr ""
+
+msgctxt "e85d5c4498d03748a92db57b71fe5423"
+msgid "\"I rotated places where I could spend the night.\""
+msgstr ""
+
+msgctxt "6094fdc6aaa281b6ecb9854a0eac60ef"
+msgid ""
+"\"I stayed with friends sometimes. Other times I slept in hostels and cheap "
+"hotels.\""
+msgstr ""
+
+msgctxt "c15aa23cecba418676f1682f5e3de4c3"
+msgid ""
+"\"I definitely did not consider going back to my dad as an option then.\""
+msgstr ""
+
+msgctxt "011d94f6cf0e92daa337019e43c46eba"
+msgid "\"It was pure luck that I met Cecilia.\""
+msgstr ""
+
+msgctxt "f58caff8db31722161fd92bb1616bd79"
+msgid "\"At that time she was the manager of a bar that I stumbled upon.\""
+msgstr ""
+
+msgctxt "15828d98b9e3d244494f7210dd39fc59"
+msgid ""
+"\"Something about her particular bar made me feel that it wasn't a bad place "
+"to be.\""
+msgstr ""
+
+msgctxt "a70cca1f168462fa7f81a4a6c7f8b207"
+msgid "\"So I walked up to her and asked for a job.\""
+msgstr ""
+
+msgctxt "dd7dd8cbba26be04d2aaa0b97d075fa9"
+msgid "\"Of course, I was rejected.\""
+msgstr ""
+
+msgctxt "601cf60cbf8c58305b64959815a1a362"
+msgid "\"But I had a strong feeling about her.\""
+msgstr ""
+
+msgctxt "faeb8a6a51aa714d2247a14a74776f2e"
+msgid ""
+"\"Something told me that Cecilia was someone who'll change the direction of "
+"my life.\""
+msgstr ""
+
+msgctxt "c49877e00a0eb1fd77a34dfe54306379"
+msgid "\"I came back every night to see her.\""
+msgstr ""
+
+msgctxt "10e7dfc0920b1d3cb582f5809de7c70f"
+msgid "\"And you could say, the rest was history.\""
+msgstr ""
+
+msgctxt "f50d9713e3c069f9e0e5e6b2640bad6b"
+msgid "S \"Good evening, Gorgeous.\""
+msgstr ""
+
+msgctxt "72d170962218f34a35b811cf0f604d26"
+msgid "E \"You again?\""
+msgstr ""
+
+msgctxt "aecc04e6bde87ed90abf2dd465785d80"
+msgid "E \"Hmph. I have a name, you know!\""
+msgstr ""
+
+msgctxt "14770fbb17e97cd0f3176642016c7079"
+msgid "S \"Beautiful?\""
+msgstr ""
+
+msgctxt "3856d84a0573051e6cd46cf84b9eec0b"
+msgid "E \"The nerve of you!\""
+msgstr ""
+
+msgctxt "2e041c5d0c412279de7eab7fb2bf47f8"
+msgid "E \"For you, it's {i}Miss{/i} Cecilia Cortes.\""
+msgstr ""
+
+msgctxt "86e2e49ed2e15a8d20505dfc020d3a07"
+msgid "S \"Ehehe. Yes, miss.\""
+msgstr ""
+
+msgctxt "eb848228c092e4c02824df991a71f4f5"
+msgid "E \"...So what is it?\""
+msgstr ""
+
+msgctxt "bfd198284dd1237d78a1b804422be49f"
+msgid "S \"I just want to talk to you.\""
+msgstr ""
+
+msgctxt "13f9e6fb0b8f17d569464a9b49938989"
+msgid ""
+"E \"Talk again? How many times do I have to tell you, there's no positions "
+"here for you!\""
+msgstr ""
+
+msgctxt "5e320b41c7a3a93d6cb44bdb88c02dbf"
+msgid "S \"It's not about that.\""
+msgstr ""
+
+msgctxt "93cdb0bca68ba4ff50a55b6e0a17701e"
+msgid "S \"I want to get to know you.\""
+msgstr ""
+
+msgctxt "686580e0f4e775ce6a8541ff3411c20b"
+msgid "E \"Young girl, you're out of your league.\""
+msgstr ""
+
+msgctxt "6bc2fcf53c89a2b0f1833e191af3bbdf"
+msgid "S \"I am?\""
+msgstr ""
+
+msgctxt "88a5bd5699fd71b23286807b754135d5"
+msgid "E \"Look at yourself.\""
+msgstr ""
+
+msgctxt "7e602e90669542e7e95fc088397f435d"
+msgid "E \"Showing up here in a girls school uniform?\""
+msgstr ""
+
+msgctxt "deb849ec6c6c42a67f28d6b4bd7a1ba6"
+msgid "E \"You're giving your school a bad reputation.\""
+msgstr ""
+
+msgctxt "155e342ff21e27f24316b6a35afc5331"
+msgid "E \"What are you trying to pull coming here dressed like that?\""
+msgstr ""
+
+msgctxt "15eacd71664abde7d05e383f74e4f382"
+msgid "E \"You think this is a day care?\""
+msgstr ""
+
+msgctxt "4e493f9f8def78479145cd2bc2547766"
+msgid "S \"Well, I am looking for extracurricular learning.\""
+msgstr ""
+
+msgctxt "bb253199c32d3bd2c0a71166b24f5c6a"
+msgid "E \"Can you at least change out before coming here?\""
+msgstr ""
+
+msgctxt "824715239b71faa001b1dbfede08a481"
+msgid "E \"People will think I'm intentionally letting in underage kids.\""
+msgstr ""
+
+msgctxt "bbd610622cc64962450b41ecd4ff52a8"
+msgid "S \"I don't have any other clothes right now.\""
+msgstr ""
+
+msgctxt "685ec299ebcbbfbdeff887240afd65de"
+msgid "E \"...\""
+msgstr ""
+
+msgctxt "4dac11b42804a6098ad0596ec9e4c2fa"
+msgid "E \"Ah...\""
+msgstr ""
+
+msgctxt "228db87d3402e7bd0dbd8ccf5331fbef"
+msgid "E \"All right, all right.\""
+msgstr ""
+
+msgctxt "b97d584e384c9120e09f9d6c89d7ac1b"
+msgid "E \"I'll hear you out.\""
+msgstr ""
+
+msgctxt "c840a635a2fd6e2a564cb5d5d6f9711d"
+msgid "E \"But not in here.\""
+msgstr ""
+
+msgctxt "17e16da3380523df9134112f8f829ed7"
+msgid "E \"I don't want anyone to think we're up to some funny business.\""
+msgstr ""
+
+msgctxt "ffc213a96345de6d7eb38a49a82037cb"
+msgid "S \"I'm 18, you know.\""
+msgstr ""
+
+msgctxt "fcf941325048133b61c1ec8a3600be72"
+msgid "E \"What?\""
+msgstr ""
+
+msgctxt "51d1aa1384630c5dde792cac3dcda098"
+msgid "E \"You look like you're 13!\""
+msgstr ""
+
+msgctxt "c604fb2baa11c377eee06ec66debce02"
+msgid "E \"Show me your identity card.\""
+msgstr ""
+
+msgctxt "84d60e6e9c5e41269a8655b176c7a403"
+msgid "S \"I forgot it.\""
+msgstr ""
+
+msgctxt "ad324a10740ca5fa71785fd1fba124b3"
+msgid "E \"Hey! That's illegal, you know!\""
+msgstr ""
+
+msgctxt "ba9b497d015e23fbba5b674b54c6ff2d"
+msgid "S \"Hehe.\""
+msgstr ""
+
+msgctxt "d7aa2ea674cffc509e5d4fc2015607c9"
+msgid "E \"What's so funny?\""
+msgstr ""
+
+msgctxt "5309f75efe4cc71923998178e0640674"
+msgid "S \"I'm happy to finally sit down with you.\""
+msgstr ""
+
+msgctxt "56de101a0d436ef44cb1328bf1693b6e"
+msgid "S \"It's like I'm dining with an angel!\""
+msgstr ""
+
+msgctxt "ad58b5cc5064326c6e9ef4c00c11a06c"
+msgid "E \"An angel?\""
+msgstr ""
+
+msgctxt "21cdf9def6154c11e5aacb075934e5f6"
+msgid "S \"You look like a Charlie's Angel!\""
+msgstr ""
+
+msgctxt "000a18515aa85b6954b21457da9a2c87"
+msgid "S \"Your hairstyle is just like Farrah Fawcett's.\""
+msgstr ""
+
+msgctxt "228aefd7ddf7148101f378b058dc6889"
+msgid "S \"It's like the real Farrah is in front of me.\""
+msgstr ""
+
+msgctxt "4850b115c7fcc128b528f2eacc376dfb"
+msgid "E \"Oh? So you recognize my beauty, huh?\""
+msgstr ""
+
+msgctxt "cda9c5a932d3d963d69c4ae3726f2300"
+msgid "S \"Yes. You could be a movie star!\""
+msgstr ""
+
+msgctxt "38d033b693fe4c05fb9f7805d0137b40"
+msgid ""
+"E \"Hmph. You're so cheeky. Don't think you'll get far with flattery alone."
+"\""
+msgstr ""
+
+msgctxt "0772d614d92d42dbff063f2284bed051"
+msgid "S \"Yes, miss.\""
+msgstr ""
+
+msgctxt "37b5e614ceb3bd86d2a0c81293d718a5"
+msgid "E \"Hmph! You sure have an attitude!\""
+msgstr ""
+
+msgctxt "82a026895809b0781901b737de8565d4"
+msgid "E \"So where do you live?\""
+msgstr ""
+
+msgctxt "2b0393c98a8acfd76b093c38d40d77ab"
+msgid "S \"I'm staying with a friend right now.\""
+msgstr ""
+
+msgctxt "102a0cfba2a8426855a8b3e99180ac8f"
+msgid "E \"How much money do you have?\""
+msgstr ""
+
+msgctxt "5d34996fdad134c154033293c337126f"
+msgid "S \"I have some money.\""
+msgstr ""
+
+msgctxt "40af7122672f00c3f99320baa597d598"
+msgid "S \"Order what you want.\""
+msgstr ""
+
+msgctxt "f21d1fa5589918c4bc36207b23faa07d"
+msgid "S \"This meal is on me.\""
+msgstr ""
+
+msgctxt "a69a9bf537a5166ab808dba1d3bda41a"
+msgid "E \"Stupid.\""
+msgstr ""
+
+msgctxt "be83c2d3cc81b057e67ae51018bb429c"
+msgid "S \"Who are you calling stupid?\""
+msgstr ""
+
+msgctxt "ca454a7261248e5edd9465b285ae10b4"
+msgid "E \"A baby-faced girl like you will get kidnapped off the streets!\""
+msgstr ""
+
+msgctxt "a3a906a91ab16ce4a2d317a5e6f49468"
+msgid "E \"If you're going to be independent, you have to be smart about it!\""
+msgstr ""
+
+msgctxt "59a111d1d3f4006f37583f9cf7949e68"
+msgid "S \"That's why I came to see you.\""
+msgstr ""
+
+msgctxt "9d6f04b7a2ac39306194900f35623d8d"
+msgid ""
+"E \"You can get work anywhere. Don't keep bothering me and my establishment."
+"\""
+msgstr ""
+
+msgctxt "47efcf4dc1faa5f36c0175b0c53f2ddb"
+msgid "S \"It has to be with you.\""
+msgstr ""
+
+msgctxt "71e174e70abf6cc8bccf0a55401eaf74"
+msgid "E \"Say that again?\""
+msgstr ""
+
+msgctxt "107ddbb501207f37fe17ae27b6b7201a"
+msgid "S \"I get a good feeling with you.\""
+msgstr ""
+
+msgctxt "d27537ebbaf1445aa2b1799ea3924d2f"
+msgid "S \"The lights, the music, all the people...\""
+msgstr ""
+
+msgctxt "336e8f144ee01a512a9169a1b02c7f77"
+msgid "S \"It's comforting to me.\""
+msgstr ""
+
+msgctxt "d00904ab95a31fa24cc61a86e05c7fde"
+msgid "S \"I feel really good to be there.\""
+msgstr ""
+
+msgctxt "5af04d223043766d3e1714a52cdd59ae"
+msgid "S \"That's all.\""
+msgstr ""
+
+msgctxt "655961fc9fe26e34d783e330b3787c93"
+msgid "S \"I want to learn from you.\""
+msgstr ""
+
+msgctxt "65266707cdbf84c0d3bd61e84539b09f"
+msgid "S \"And learn how to create such a place for myself.\""
+msgstr ""
+
+msgctxt "8716c9953c39c2cd2bb9a11e3482120b"
+msgid "E \"You're strange.\""
+msgstr ""
+
+msgctxt "b5897ae8bf4ead6b3fde217e44c3b780"
+msgid "S \"I guess.\""
+msgstr ""
+
+msgctxt "40b7e0ba8ecffc9c8d916ec58cbc0689"
+msgid "E \"Are you still in school?\""
+msgstr ""
+
+msgctxt "e53a86b32c0a2a74b58c4ff2968c1582"
+msgid "S \"No. I finished.\""
+msgstr ""
+
+msgctxt "367f1e46890937e2cbc2fc786779bb4f"
+msgid "E \"I see.\""
+msgstr ""
+
+msgctxt "89c37807918b70f07bd2d49e16791928"
+msgid "E \"Can you speak English?\""
+msgstr ""
+
+msgctxt "add21d2423c2b1606ddb60af3a53a7f2"
+msgid "S \"I can.\""
+msgstr ""
+
+msgctxt "eae998b4a498718ff444ccecc52db191"
+msgid "E \"Say something.\""
+msgstr ""
+
+msgctxt "85fbe59134f755a27744a446bbe203fa"
+msgid "S \"\\\"Hello. How are you? Are you visiting Hong Kong?\\\"\""
+msgstr ""
+
+msgctxt "965e7f83b4297c957f9859f516292371"
+msgid "S \"\\\"No, sir. You cannot have a photo with me.\\\"\""
+msgstr ""
+
+msgctxt "a128dc9d83f9a4ba0fe4dcd71d485e43"
+msgid "E \"Good enough, I suppose.\""
+msgstr ""
+
+msgctxt "c8536b95d53447e44435e133bc20f46f"
+msgid "E \"How about your Math?\""
+msgstr ""
+
+msgctxt "150a0d92a45f7a8a88c5163dd554e1ba"
+msgid "S \"I'm an A-grade student.\""
+msgstr ""
+
+msgctxt "bb187f7ef8bb337418f189741a830af3"
+msgid "E \"What's 14 times 12 minus 18?\""
+msgstr ""
+
+msgctxt "1d4c4c4aa37ce6c81711733a13c98682"
+msgid "S \"150.\""
+msgstr ""
+
+msgctxt "a67aa3314ab3f4c3fe12b6be25c56c32"
+msgid "E \"...That is elementary. Anyone would know that.\""
+msgstr ""
+
+msgctxt "4a595dd77a5e1fc158be9cb14924ed3d"
+msgid "S \"You know, I was top of my class for Math.\""
+msgstr ""
+
+msgctxt "5e1e528f2b1e604235867cf9b7c981bf"
+msgid "S \"A lot of people asked me to be their tutor.\""
+msgstr ""
+
+msgctxt "9c082046746bd908144a0546ce7f8003"
+msgid "E \"Uh huh. Okay.\""
+msgstr ""
+
+msgctxt "0a1653dd8abf7bcbd8f8be0f106d08a3"
+msgid "S \"Hm?\""
+msgstr ""
+
+msgctxt "664159811c8e8f9570c9e8121591acf9"
+msgid "E \"I have a cousin who needs some help at a record store.\""
+msgstr ""
+
+msgctxt "1065c3df71b7c3c213a911cb11fa37e1"
+msgid "E \"I assume you can pick up some shifts, right?\""
+msgstr ""
+
+msgctxt "35ca3115040a24f9ce866b5c93ee280a"
+msgid "S \"Yes.\""
+msgstr ""
+
+msgctxt "b8577388fd48ad7a238abd34805c6dac"
+msgid "E \"Good.\""
+msgstr ""
+
+msgctxt "f4b7e8dbc606916e3668fa5cba758ecc"
+msgid "E \"I'll put in a good word for you.\""
+msgstr ""
+
+msgctxt "e5cffd1d295a5a02c4fecf6bfc902512"
+msgid "S \"Thank you...\""
+msgstr ""
+
+msgctxt "b876d1dd9923e580cc834602476a4c5b"
+msgid "E \"Hm?\""
+msgstr ""
+
+msgctxt "40bc61c7bda4b02f199203ae5a9b2823"
+msgid "E \"Is that all the gratitude you have for me?\""
+msgstr ""
+
+msgctxt "478aa1de105b7ccb79c8bd8089a350c4"
+msgid "S \"Can't I work for you?\""
+msgstr ""
+
+msgctxt "2244deca63363ca3c6422af0eb0f7c79"
+msgid "E \"That again?\""
+msgstr ""
+
+msgctxt "45e25d10ea08567320b562fc08439958"
+msgid "E \"...Come back to me with a few more years under your belt.\""
+msgstr ""
+
+msgctxt "44531bf3d1d5a37b8780e20288e8390e"
+msgid "S \"Eh...\""
+msgstr ""
+
+msgctxt "c92f0274e3a1595aec3adc4460201779"
+msgid "E \"What can you do at the bar?\""
+msgstr ""
+
+msgctxt "e2d7766115092b72504816831579db34"
+msgid "S \"I can be the bartender.\""
+msgstr ""
+
+msgctxt "a26ed86c851f2adf7c5647897d09e9a9"
+msgid "E \"You can drink?\""
+msgstr ""
+
+msgctxt "382f9b266fdbce6bcf6db1fda76c2e0d"
+msgid "E \"What do you even know about bartending?\""
+msgstr ""
+
+msgctxt "3c101e89f2ec55a3874acb044d3ddef7"
+msgid "S \"I can make you a drink.\""
+msgstr ""
+
+msgctxt "38d672fafa90f6853718f275ff842d2e"
+msgid "E \"Oh? What will you make?\""
+msgstr ""
+
+msgctxt "fc7d356d2a528b80445a1b4b56e4e4d3"
+msgid ""
+"S \"I'll make something suitable for an adult like you, \\\"Between the "
+"Sheets.\\\"\""
+msgstr ""
+
+msgctxt "3ba34012a680affd84410778805f7947"
+msgid "E \"Huh! What a precocious little girl you are!\""
+msgstr ""
+
+msgctxt "db3d1568a70293c8070376847013ce98"
+msgid "E \"Hmph.\""
+msgstr ""
+
+msgctxt "f87e40d31572fda72a42687079550030"
+msgid "E \"You're still a diamond in the rough.\""
+msgstr ""
+
+msgctxt "a8df57a86df0f0395f1fab7501bf8484"
+msgid "E \"Learn a thing or two from the real world first.\""
+msgstr ""
+
+msgctxt "87824649302a54e6c8e85ee7fdc0f3ff"
+msgid "S \"Ehhh? A diamond in the rough?\""
+msgstr ""
+
+msgctxt "5c9ad1b1157acecfe9c9f70b552dcd7e"
+msgid "S \"Don't look down on me because I'm so much younger than you.\""
+msgstr ""
+
+msgctxt "44dcb1bad377b7ddbaf45b3690b6efd8"
+msgid "S \"Maybe I'll take over your bar someday.\""
+msgstr ""
+
+msgctxt "46010ea66b24f2ba0f6748ac04b92dd8"
+msgid "E \"Eh? Such an attitude!\""
+msgstr ""
+
+msgctxt "fb71610447c95943d51e4fbf063567a7"
+msgid "E \"You know, I'm not that much older than you!\""
+msgstr ""
+
+msgctxt "654c570c15899f074381b45943b02e88"
+msgid "S \"How old are you then?\""
+msgstr ""
+
+msgctxt "a70082034473af2c58c262eda7d7b26f"
+msgid "E \"I don't need to tell you!\""
+msgstr ""
+
+msgctxt "2b6c76601f65e9bf23881eb618bca6b7"
+msgid "S \"Hehehe.\""
+msgstr ""
+
+msgctxt "9abacba932433cd0c6ea131b709f2341"
+msgid "E \"Okay, baby girl. Your milk tea is here.\""
+msgstr ""
+
+msgctxt "8ac075dd97319697149eb00728d52463"
+msgid "S \"Thank you!\""
+msgstr ""
+
+msgctxt "4c4df4725e77f46c8c880699a8cc16c2"
+msgid "\"I promised Cecilia that I would work hard to repay her.\""
+msgstr ""
+
+msgctxt "f09d8fdefc6d30715ba68b3a579e4e08"
+msgid "\"I started working at the record store that she introduced to me.\""
+msgstr ""
+
+msgctxt "e3590d4c36f597981cc19a2c10a00565"
+msgid ""
+"\"It took several years to save up enough money before I could open my own "
+"video store.\""
+msgstr ""
+
+msgctxt "ce3795545d0407150112497c3cb63b48"
+msgid ""
+"\"The original record store had eventually closed down, and Cecilia acquired "
+"the lease on the space for a good price.\""
+msgstr ""
+
+msgctxt "9d7ad85be484d59d9331ddf0ab784d71"
+msgid ""
+"\"Home video was taking off. I thought it’d be my opportunity to make it big."
+"\""
+msgstr ""
+
+msgctxt "ee6d81666422de3ba871927818c70476"
+msgid ""
+"\"When they first heard about it, my dad and my brother had their doubts "
+"about the video store.\""
+msgstr ""
+
+msgctxt "5125de8aaa1887ff81eb5db1dafe0477"
+msgid ""
+"\"It wasn't just about money. I had my own reasons why I wanted to run a "
+"video store.\""
+msgstr ""
+
+msgctxt "5456f509574861eca1dbc0e9d400dc9e"
+msgid "\"It was really hard.\""
+msgstr ""
+
+msgctxt "01a0131ef12f5641c3485f415460adca"
+msgid ""
+"\"Even with Cecilia’s help in the beginning, it was difficult to turn a "
+"profit.\""
+msgstr ""
+
+msgctxt "48c2e2faf67a760999012623db22d003"
+msgid "\"Business was booming for so many people in the new decade.\""
+msgstr ""
+
+msgctxt "4b0967ce1335b29426e8546e334ab779"
+msgid ""
+"\"But for me, it seemed like I was going to be left behind in the dust.\""
+msgstr ""
+
+msgctxt "f58e34769ad18959be3e6d7073d0ecc9"
+msgid ""
+"\"A few years later, Cecilia had turned the old funk bar into a shiny new "
+"disco.\""
+msgstr ""
+
+msgctxt "09aa3fea36af31967664c9fc7c5e2c72"
+msgid "\"She threw a big party to celebrate its grand reopening.\""
+msgstr ""
+
+msgctxt "b45486a149dbf9a83703c7340e86e938"
+msgid "\"It was around the time I had just opened the video store.\""
+msgstr ""
+
+msgctxt "379619d66faaaea39c243d63bf0c3197"
+msgid "E \"Hey, Samantha!\""
+msgstr ""
+
+msgctxt "1580cf56c51d5752f25ba5233aa4afe4"
+msgid "E \"What’s got you looking so run down?\""
+msgstr ""
+
+msgctxt "57fee1bdd72ac20a358b51dbf5a5987b"
+msgid "S \"I look run down?\""
+msgstr ""
+
+msgctxt "0688dbbb86869b1abdd7fac0de2d9b9f"
+msgid "S \"I guess I’m worn out from all the dancing!\""
+msgstr ""
+
+msgctxt "c1f4bd3bb683796a57388a67a3152409"
+msgid "S \"Ah, there were so many ladies keeping me on the dance floor.\""
+msgstr ""
+
+msgctxt "b7c5de615fef1a7736d8dbdc77f81f5f"
+msgid "S \"I finally got a chance to take a seat.\""
+msgstr ""
+
+msgctxt "417d60d7f0bf5970e59ee505ca22003e"
+msgid "E \"Hm. You’re so popular.\""
+msgstr ""
+
+msgctxt "7410eef2bd629b26ba7d0656006f5c04"
+msgid "E \"People kept asking me the whole night, “Who’s that sweet dancer?\\\"\""
+msgstr ""
+
+msgctxt "470afb869a9332eb7a4b74508c634e96"
+msgid "E \"I thought I was supposed to be the star tonight!\""
+msgstr ""
+
+msgctxt "c060f2c7ed33ca79691fb78733d431f5"
+msgid "S \"Eh? Really?\""
+msgstr ""
+
+msgctxt "13d59d60cbbf8d09fa852b78031a6e11"
+msgid "S \"Well, maybe now’s the time you should hire me to work at your bar!\""
+msgstr ""
+
+msgctxt "e3b943271176ba03db93863b1f521c5c"
+msgid "S \"I can be your star dancer.\""
+msgstr ""
+
+msgctxt "39490c710bcf37503525196c74dfd390"
+msgid "S \"We could be famous!\""
+msgstr ""
+
+msgctxt "bdb7f490ca86349f9abc0551c8eafb76"
+msgid "E \"Huh? What’s that crazy talk?\""
+msgstr ""
+
+msgctxt "9fd4bd68d4b32b1146d55bdaf788d4c2"
+msgid "E \"What about your video store?\""
+msgstr ""
+
+msgctxt "83ee70dd9294f868ada0dcda6a52fb5b"
+msgid "S \"Well...\""
+msgstr ""
+
+msgctxt "6d6b6845faf6b9c0d33bd336cd950c1e"
+msgid "S \"It’s not like it's really doing that well.\""
+msgstr ""
+
+msgctxt "76429dd91efb4d03e75e5f4a1b9ffd46"
+msgid "S \"Maybe it’d be better to call it quits.\""
+msgstr ""
+
+msgctxt "9c0c48def76c074c4ea246f394915cc1"
+msgid "S \"Sorry Cecilia. I don't mean to be always depending on you.\""
+msgstr ""
+
+msgctxt "44620022998b06f3c32e02e929e66d3e"
+msgid "E \"How many times I have to tell you that it’s not an issue!\""
+msgstr ""
+
+msgctxt "92dc81210310c5d0abdce1aa03ffbc8f"
+msgid "E \"You think running a business will be that easy?\""
+msgstr ""
+
+msgctxt "72328b1b82bf7f3d20b138bd9d9ca64e"
+msgid "E \"I keep telling you that you have to give it more time.\""
+msgstr ""
+
+msgctxt "fad93e22c077097db3c0d825c578e9e9"
+msgid "E \"Don't get yourself down just yet.\""
+msgstr ""
+
+msgctxt "bcf21557eaa2eba48c7d258449ff5f6a"
+msgid "E \"Here, here.\""
+msgstr ""
+
+msgctxt "4ff613ce781141902c9f5fb3ba6f7be3"
+msgid "E \"Let’s have another drink together.\""
+msgstr ""
+
+msgctxt "4be8728fbc8eb62c00dbcfa0b5d02db3"
+msgid "E \"Let's celebrate tonight!\""
+msgstr ""
+
+msgctxt "395cf6599b0edf59ea60a08fdbff5c0c"
+msgid "S \"Mm.\""
+msgstr ""
+
+msgctxt "33bbfb28cad200c0b0de74dd0930689f"
+msgid "E \"Come on, Samantha. You’re a diamond.\""
+msgstr ""
+
+msgctxt "f4dd7d6d15574191a53919586d824631"
+msgid "E \"You have to let yourself shine.\""
+msgstr ""
+
+msgctxt "b1d79219f7f8c970f3cc5b5749c64579"
+msgid "S \"I don’t know where I’d be without you.\""
+msgstr ""
+
+msgctxt "564f492778fcc98a79dd46b634bd21fd"
+msgid "S \"Thank you so much. You’re really important to me.\""
+msgstr ""
+
+msgctxt "1cd0a01da492aac1e8448bbba9c99ff5"
+msgid "E \"You’re so grown up now.\""
+msgstr ""
+
+msgctxt "4dbbc68b50ce528cd3a974825d9cbaa8"
+msgid "E \"Look at you!\""
+msgstr ""
+
+msgctxt "9ee6609b56603cbed0abdacb0de64248"
+msgid "E \"I can’t believe I first met you here in a girls school uniform!\""
+msgstr ""
+
+msgctxt "19ece627062844a0f6f9eb6faefd662f"
+msgid "S \"Do you like my look tonight?\""
+msgstr ""
+
+msgctxt "78b2712c83a99fe2cc66cf96b749b9bf"
+msgid "E \"Sure, better than before.\""
+msgstr ""
+
+msgctxt "4bf4ed37eed9d6f1120592cce6b8b0fb"
+msgid "S \"Don't you think I match you now?\""
+msgstr ""
+
+msgctxt "cc7a2430d255560b2d8871d06a36de96"
+msgid "E \"Are you drunk?\""
+msgstr ""
+
+msgctxt "da24eeeecd38e1e2cab5b8e3f3a230ed"
+msgid "E \"I’m taking that drink away from you.\""
+msgstr ""
+
+msgctxt "43c9a383f419d54a0b9ee74b62d7428c"
+msgid "E \"I'm only letting you drink coke.\""
+msgstr ""
+
+msgctxt "46df2f8d9209b706531717a9719f7543"
+msgid "S \"Come on, Cecilia!\""
+msgstr ""
+
+msgctxt "36b2573c72cf3fda50d57b933639e592"
+msgid "S \"Enough acting like a big sis. Why don’t we dance the night away?\""
+msgstr ""
+
+msgctxt "fa6be0b81e35ca88793c6ea5834e05ad"
+msgid "\"A year later, I was able to turn things around with the video store.\""
+msgstr ""
+
+msgctxt "d3e2ba349b26bb658421a84563eb4641"
+msgid ""
+"\"Though I'm still close with Cecilia, I never did get a chance to work with "
+"her.\""
+msgstr ""
+
+msgctxt "b3cb95069c6c65b77eaca1ec97fc3706"
+msgid "\"Funny how things go sometimes.\""
+msgstr ""
+
+msgctxt "d71a209d12d576deff8fc76d4b063287"
+msgid "\"It was Saturday morning.\""
+msgstr ""
+
+msgctxt "bb882721361d3644e90186f66fb6315e"
+msgid ""
+"\"Usually I would be tending my shop on a Saturday, but I had taken the day "
+"off as I had plans to meet my dad in Sai Kung.\""
+msgstr ""
+
+msgctxt "0c09cc994fa58631c66e2b9a21446228"
+msgid "\"I heard my phone ring.\""
+msgstr ""
+
+msgctxt "e9d3c1a04fca14301fe7dfd87399e911"
+msgid "\"{i}Ring... Ring... Ring...{/i}\""
+msgstr ""
+
+msgctxt "1556b87c461f65ba1ae7278834f7685e"
+msgid "S \"Hello?\""
+msgstr ""
+
+msgctxt "ae98b5566ef056b71a098f6b400fdee7"
+msgid "S \"Oh, dad? Yes, I'm on my way.\""
+msgstr ""
+
+msgctxt "6a5a4d91b2b7e05dadacd0ede101a149"
+msgid "S \"Oh? Okay. I’ll pick them up. You don’t have to remind me.\""
+msgstr ""
+
+msgctxt "0edf94a4ac33267d96ae37d0ef9ed552"
+msgid "S \"Okay, okay. I’ll see you soon.\""
+msgstr ""
+
+msgctxt "c54c64d3a64c608645e51026104e03f3"
+msgid "\"I was just about to head out when my dad had called.\""
+msgstr ""
+
+msgctxt "998d8dcf49232086bbeb0b39b5540520"
+msgid "\"He called to remind me about getting flowers on my way to meet him.\""
+msgstr ""
+
+msgctxt "e86ef7d4d28e7652593bb0216033caaf"
+msgid "\"He didn’t have to remind me.\""
+msgstr ""
+
+msgctxt "a4eb7178bb334f1a7b6320dac7491e05"
+msgid "\"I wouldn’t have forgotten, especially for such an occasion.\""
+msgstr ""
+
+msgctxt "fdf9d90d78c1f87979d461ca0ce8c444"
+msgid "\"I heard the phone ring again.\""
+msgstr ""
+
+msgctxt "f021d672c6161bb141ae352adb1a8c08"
+msgid "S \"Again?\""
+msgstr ""
+
+msgctxt "074814c40565a28aaa32c49b0b38852d"
+msgid "\"When the phone sounded the second time, I let it keep ringing.\""
+msgstr ""
+
+msgctxt "e9b3d0f3c659f819e682b123f16d3eb3"
+msgid "\"My dad had a habit of calling back to nag me about some other thing.\""
+msgstr ""
+
+msgctxt "32583fbd54482920363e305b2a3cd6a2"
+msgid "\"If anything, I was going to see my dad soon.\""
+msgstr ""
+
+msgctxt "ee747295c308b992d06d36123a050a3a"
+msgid "\"He could talk to me then when I saw him.\""
+msgstr ""
+
+msgctxt "d53a982b9a6c019b7de1654700008000"
+msgid "\"I had to get going if he wanted me to meet him on time.\""
+msgstr ""
+
+msgctxt "99a769acc2c85d566dfa4239a72c12dc"
+msgid "\"I lived not far from the Prince Edward Street flower market.\""
+msgstr ""
+
+msgctxt "d4b0cf26bedf63949cdac7fb5237a9e3"
+msgid "\"My mother used to bring me there a lot as a child.\""
+msgstr ""
+
+msgctxt "8a98109289ac3917126957403aaa1b8f"
+msgid ""
+"\"There were always a wide variety of flowers on display at the open air "
+"market.\""
+msgstr ""
+
+msgctxt "d2c8231bb3be280bbc0507272658d8ca"
+msgid ""
+"\"From my earliest memory, I remember my mother had always kept a vase of "
+"flowers in our home.\""
+msgstr ""
+
+msgctxt "6e69821381111e9c388552c6e3ad92fb"
+msgid "\"Flowers brighten the home and elevate the spirits, she said.\""
+msgstr ""
+
+msgctxt "e9b20f9cf4902ac389dd3122ea3eab1e"
+msgid ""
+"\"My mother in my memory was someone who always put on a smiling face for "
+"everyone.\""
+msgstr ""
+
+msgctxt "40de78ca4bf52c92cf690cb709931c1f"
+msgid ""
+"\"I remember how satisfied she was to bring home a fresh bouquet of flowers."
+"\""
+msgstr ""
+
+msgctxt "6e1449f96644f9f6ea2d66f4eb7dcbcf"
+msgid "\"It was something that made her happy.\""
+msgstr ""
+
+msgctxt "762122e879407cb3e35986997e049d87"
+msgid "\"I had gotten a bouquet of her favourite flowers.\""
+msgstr ""
+
+msgctxt "d8c6debadcde94f70c96049371f1e2d5"
+msgid ""
+"\"I was about to get on my bike and leave when my pager started beeping.\""
+msgstr ""
+
+msgctxt "a1e3b63647e17fe7aa0903d9b94f9b68"
+msgid ""
+"\"I never thought I needed a pager, but it had been a gift from Cecilia.\""
+msgstr ""
+
+msgctxt "9b293cdacf208de9173c1373a2dc5b06"
+msgid "\"She said she needed to keep tabs on my whereabouts.\""
+msgstr ""
+
+msgctxt "4caaedc858341cac544b3a9ba1a744fc"
+msgid ""
+"\"I didn't like carrying it around at first, but now I admit it's quite "
+"useful to have.\""
+msgstr ""
+
+msgctxt "f99760d7808844c4eabe1fc011af6353"
+msgid "\"It had been Cecilia calling.\""
+msgstr ""
+
+msgctxt "cf10e67886bc6f90f55144c9b33a9650"
+msgid "\"She probably wanted to meet for dinner later.\""
+msgstr ""
+
+msgctxt "b505c48afe2cb590be580f684ab4f26f"
+msgid "\"I’d call her back tonight.\""
+msgstr ""
+
+msgctxt "95a44801d4c7961679e0b7ccb3e54e32"
+msgid "\"As I put the pager back into my pocket, the pager buzzed again.\""
+msgstr ""
+
+msgctxt "d8a46c07fa87be30d6f1b48e0a6ae16e"
+msgid "\"I should at least hear her message.\""
+msgstr ""
+
+msgctxt "c0c8ce6d092c20292ec7e29f55bfcaa1"
+msgid "\"It wasn't good to ignore Cecilia.\""
+msgstr ""
+
+msgctxt "3e84d175c47396147ebd1a76b66a916b"
+msgid "\"Who knows, maybe the shop was on fire.\""
+msgstr ""
+
+msgctxt "a2269991591cd568384653b7eb993823"
+msgid "\"I dialled from the nearest phone booth.\""
+msgstr ""
+
+msgctxt "6872fee879dd351e382fe2079cd004fb"
+msgid "\"Cecilia had left me a message.\""
+msgstr ""
+
+msgctxt "4d083a79b4918cdc212cf562b360d906"
+msgid "\"It was about Michelle.\""
+msgstr ""
+
+msgctxt "3dac6981e5959efaf0d8d3cbc408461d"
+msgid ""
+"\"She said briefly that she had met up with Michelle, and that Michelle was "
+"waiting for me in the store.\""
+msgstr ""
+
+msgctxt "04813cdf67c12953593be01ef1267303"
+msgid "\"What was this?\""
+msgstr ""
+
+msgctxt "3bc754e0b62bf94a5a2f8053d15d383b"
+msgid "\"Of all the days that I actually have to be out!\""
+msgstr ""
+
+msgctxt "14d459835f36ff3cc2495af4437db2cf"
+msgid "\"What should I do?\""
+msgstr ""
+
+msgctxt "d001215a98879a4810f30e283cdd100e"
+msgid "\"I had a bit of time to spare...\""
+msgstr ""
+
+msgctxt "47720b8abf5a4be38c29011c755bc9a4"
+msgid "\"Oh mother, I’m sorry there’s something else on my mind today.\""
+msgstr ""
+
+msgctxt "05b1411ce2b0ba3ff2caf01a354f60cd"
+msgid "\"Please forgive your daughter’s impure heart.\""
+msgstr ""
+
+msgctxt "4e2b4023ee82696711ddd1dcbf713c86"
+msgid "\"She can’t play around with games of romance for too much longer.\""
+msgstr ""
+
+msgctxt "d385a87996f628f4892089531763cb60"
+msgid "\"Please understand, she’s trying her best to live an authentic life.\""
+msgstr ""
+
+msgctxt "4029fe85dd68a8c784b95b7f028e8475"
+msgid "\"I made my way back to the shop.\""
+msgstr ""
+
+msgctxt "cf205f5912428420eadcde6a4f5ed509"
+msgid "\"I saw from afar that the gates were shuttered.\""
+msgstr ""
+
+msgctxt "8fe4f6b2086aefc99ff5733886a9c160"
+msgid "\"Was Michelle still there...?\""
+msgstr ""
+
+msgctxt "8b0866dae6ce4a65780fbb4d58c33f64"
+msgid "\"I saw someone standing alone in front of the store.\""
+msgstr ""
+
+msgctxt "87b094415d016b904390968f233c99ac"
+msgid "\"Ah!\""
+msgstr ""
+
+msgctxt "e68ac3c5a97622506b3b74987e30676a"
+msgid "\"It was none other than Michelle!\""
+msgstr ""
+
+msgctxt "6622f2cd2f45a95d71dceb7ea59dc602"
+msgid "\"I quickly parked my bike and ran towards her.\""
+msgstr ""
+
+msgctxt "eeef7c840a11ed9dd005fb532569f4f6"
+msgid "S \"Michelle!\""
+msgstr ""
+
+msgctxt "895230043e0c482b24fc8f1c1cf7cb21"
+msgid "\"She turned around and her eyes met mine.\""
+msgstr ""
+
+msgctxt "9c58049799a906a720d121eb51cd0323"
+msgid "\"Please, just for today.\""
+msgstr ""
+
+msgctxt "7c697785497452c61274ac3c9720d1b9"
+msgid "\"Come away with me.\""
+msgstr ""
+
+msgctxt "6343761007d002703a5e56229505f629"
+msgid "\"I had brought Michelle to Sai Kung to visit my mother's grave.\""
+msgstr ""
+
+msgctxt "4b47fc570ba643cefeb697984d55f230"
+msgid "\"It was a special occasion.\""
+msgstr ""
+
+msgctxt "1c1a581964ad81f0d05c68b593c7f3a3"
+msgid "\"My mother is someone dear to me.\""
+msgstr ""
+
+msgctxt "b09e403684d4af5c92e71ffb7285bfdc"
+msgid "\"I wanted Michelle to understand this side of me too.\""
+msgstr ""
+
+msgctxt "3f1d37c76f3b248469362032d6df375d"
+msgid ""
+"\"Afterwards, we had lunch in Sai Kung and we took a stroll around the "
+"townsite.\""
+msgstr ""
+
+msgctxt "4b2ceb1493f8baa122554641c696154a"
+msgid "\"It was late afternoon when we had finished looking around.\""
+msgstr ""
+
+msgctxt "9c6dcd1cd9dac8d23736ecf8420b40a6"
+msgid "\"When Michelle pointed out the sign for stargazing,\""
+msgstr ""
+
+msgctxt "bbb4d39c05b6254acbe8454b408726f2"
+msgid "\"I suggested that we go to a place where we could see the stars.\""
+msgstr ""
+
+msgctxt "a0bb80fb86b4e1cd13306cbe5fcae4af"
+msgid "\"I didn’t want to go back just yet.\""
+msgstr ""
+
+msgctxt "752bfd435c414e528af5f3df7b5263c9"
+msgid "\"I wanted to prolong the time we had together for as long as I could.\""
+msgstr ""
+
+msgctxt "11f38ea612f5ea3b5ea8c4b86d483d5d"
+msgid "\"Once we leave this place,\""
+msgstr ""
+
+msgctxt "66bb87a884d4c5a29a48c6f7f5bd33ef"
+msgid "\"Would she still want to meet with me?\""
+msgstr ""
+
+msgctxt "a0f76c0b3f710e06674b3d3ea7edaa99"
+msgid "\"I didn’t know yet what she truly thought of me.\""
+msgstr ""
+
+msgctxt "a54ff668d6bd5f7184dc75b33a765069"
+msgid ""
+"\"It was selfish, I know. I didn’t want to let go of her time just yet.\""
+msgstr ""
+
+msgctxt "aa76bb85fd43a3ef31899edec4ebe8bf"
+msgid "\"We made our way through the mountain road and down to the beach.\""
+msgstr ""
+
+msgctxt "0c821100f51268f107dff695e8cea20e"
+msgid "\"It was just the two of us alone that day.\""
+msgstr ""
+
+msgctxt "621ca0ffc3cd1f8e243ff1202b4f4405"
+msgid "\"The weather was quite warm, but it was comfortable in the shade.\""
+msgstr ""
+
+msgctxt "520c1950961b8e37ce7e062139831b1b"
+msgid "\"We sat down in the shade of the trees and we looked out to the sea.\""
+msgstr ""
+
+msgctxt "2e9abf20bd8a466cdd8ec91e68e51875"
+msgid "\"Michelle placed a cool pack on my neck. It was a cute gesture.\""
+msgstr ""
+
+msgctxt "50a9818f1eec4d051241fbb388650d5a"
+msgid "\"It felt nice.\""
+msgstr ""
+
+msgctxt "42b144d5994d9504ebf68b53a52e0715"
+msgid "\"I wanted to lean against her.\""
+msgstr ""
+
+msgctxt "0a68400b4f5ca04b47036893c042887e"
+msgid "\"But I thought against it. I couldn't.\""
+msgstr ""
+
+msgctxt "3c18a3a229e991ccc5c0e47ca106b1ca"
+msgid "\"There was an awkward tension between us.\""
+msgstr ""
+
+msgctxt "7e7a8a2b6a3b4e073a0b24a30989c4d7"
+msgid ""
+"\"We talked together about this and that, but we both avoided talking "
+"directly about what we wanted to know most.\""
+msgstr ""
+
+msgctxt "bc5daaf676ce53ca35ef9ecff4806edb"
+msgid "\"Time was leisurely.\""
+msgstr ""
+
+msgctxt "f1b588668d57b1c7b513a2ff213502f0"
+msgid "\"As time passed by,\""
+msgstr ""
+
+msgctxt "44fe8124062944e5403cf53156fabd0e"
+msgid "\"I felt more at ease and so did Michelle.\""
+msgstr ""
+
+msgctxt "d96b2e249f008edbaff51b4e24b14ef1"
+msgid "\"We talked... We listened to the waves.\""
+msgstr ""
+
+msgctxt "7174031cd18b618578dbb228533bf7bc"
+msgid "\"I felt at peace.\""
+msgstr ""
+
+msgctxt "fe198dbaefa73f9d7e90952fcb96bf18"
+msgid "\"I never felt such a feeling before with anyone.\""
+msgstr ""
+
+msgctxt "a9333704f46ec578edccaf680302b97e"
+msgid "\"I didn't want the night to come so soon.\""
+msgstr ""
+
+msgctxt "4ccb71a2b528605ae0224b2e88ea32d8"
+msgid "\"Eventually...\""
+msgstr ""
+
+msgctxt "c8ffd9c6328e5fb9f7e12b641a71b84b"
+msgid ""
+"\"The sun came down slowly, and then one by one, the stars appeared in the "
+"night sky.\""
+msgstr ""
+
+msgctxt "c172960339cd8e872ba97f08e135680e"
+msgid "\"We gazed at the stars.\""
+msgstr ""
+
+msgctxt "5013a18d33334ffba9b79886621232a9"
+msgid "\"Michelle was inquisitive.\""
+msgstr ""
+
+msgctxt "05b26a714d846228703012283a4b6b5c"
+msgid "\"I wanted to share with her all that I knew.\""
+msgstr ""
+
+msgctxt "c2121cde25fed808fbf5016e7a01c63c"
+msgid "\"And I was curious to hear from her what she thought.\""
+msgstr ""
+
+msgctxt "b07ed0d24acb2a4cfb2d80865ebd409a"
+msgid "\"Would we share the same ideas?\""
+msgstr ""
+
+msgctxt "4d3b46d180622cda11d5a76047fc3de7"
+msgid "\"The same dreams?\""
+msgstr ""
+
+msgctxt "2bfe2e7df8fc04ef990c8d9b8d687df5"
+msgid "\"The same desires?\""
+msgstr ""
+
+msgctxt "adedd32bf1b1e53f8c34ae8f0b648bf5"
+msgid "\"I felt Michelle lean against me.\""
+msgstr ""
+
+msgctxt "9b4e4724e3e5fa389c4416047677e688"
+msgid "\"She rested her head on my shoulders.\""
+msgstr ""
+
+msgctxt "9b28c4aeb17686c565aa23ad32333199"
+msgid "\"...Michelle had fallen asleep on my shoulder.\""
+msgstr ""
+
+msgctxt "d01ac400c30d8fed81b9fbf4be47ccf8"
+msgid "\"She slept soundly.\""
+msgstr ""
+
+msgctxt "50871500c20697de03284b27fe459b2b"
+msgid "\"She looked a little flushed.\""
+msgstr ""
+
+msgctxt "16b15f44ad144f6645b690acff9b5e50"
+msgid "\"It had been a long day for us out in the sun.\""
+msgstr ""
+
+msgctxt "c35a393fbeffd5db0e29ebfab1cbc05a"
+msgid "\"Her eyes fluttered in her sleep.\""
+msgstr ""
+
+msgctxt "6675620dc355483ce1660abd30178084"
+msgid "\"I wondered if she dreamt a dream?\""
+msgstr ""
+
+msgctxt "890dc83e5f684d24dbcab1ae6fe48742"
+msgid "\"I gazed at her sleeping face and wished upon the stars a small wish.\""
+msgstr ""
+
+msgctxt "e45880995760baf2d08492a871697fa2"
+msgid "\"I didn't want to ask too much.\""
+msgstr ""
+
+msgctxt "bf557265afa7350160934e467a0822df"
+msgid "\"But if I could be someone in Michelle's life,\""
+msgstr ""
+
+msgctxt "18e044bbb2fd7a26ba81756916fa2e36"
+msgid "\"I'd be very happy.\""
+msgstr ""
+
+msgctxt "638b890a00a9bd1107736b764a9357ce"
+msgid "\"I didn't want to ask more than that.\""
+msgstr ""
+
+msgctxt "d7db81b96fbd520c777e454150b59899"
+msgid "\"I just want her to be happy...\""
+msgstr ""
+
+msgctxt "3a58fb9c9a4548517db2764cede2f861"
+msgid "\"The clouds soon covered up the stars.\""
+msgstr ""
+
+msgctxt "b52f943ac08320573f6297a5502b4352"
+msgid "\"The night couldn't last forever.\""
+msgstr ""
+
+msgctxt "a1f7e7f61ea26c5c4c95cde0c699527b"
+msgid "\"And the dream would have to come to an end.\""
+msgstr ""
+
+msgctxt "16fcbc5a382829a51e5011b2eb27cda7"
+msgid "\"It was late into the night.\""
+msgstr ""
+
+msgctxt "ff1684f116450ea4cf1c8dbdb2a85e48"
+msgid "\"We had gone back to my apartment.\""
+msgstr ""
+
+msgctxt "0c8fb159f05c633c846b8cd1456e6653"
+msgid "\"Michelle had been quiet since we returned from the beach.\""
+msgstr ""
+
+msgctxt "0f38662679d62f94b2d86fa21fd98653"
+msgid "\"A silent air persisted between us.\""
+msgstr ""
+
+msgctxt "255570b7f81b2471b372092ed5da92cd"
+msgid "\"In my limited years of wisdom,\""
+msgstr ""
+
+msgctxt "08dfe31dbf494f57e4a34376f2d8b326"
+msgid "\"I’ve learned the best thing to dispel tension was to eat.\""
+msgstr ""
+
+msgctxt "4f44b16216b841a0b330c5367e6d9435"
+msgid "S \"It’s been a long day.\""
+msgstr ""
+
+msgctxt "15f65935fdf41aef74425a154cdd6f54"
+msgid "S \"Want me to put on a movie? Or are you hungry?\""
+msgstr ""
+
+msgctxt "e0938ff5614ac89baf707bbdfa9d0438"
+msgid "S \"We can get something to eat.\""
+msgstr ""
+
+msgctxt "491f1381fede19239dcc1e95402c7da5"
+msgid "S \"There’s still a lot of late night eateries open here.\""
+msgstr ""
+
+msgctxt "3855a12c55cf680384783150843448b1"
+msgid "M \"...\""
+msgstr ""
+
+msgctxt "cffafa28b727d16a99296432d184df64"
+msgid "M \"Sam, I’m not hungry.\""
+msgstr ""
+
+msgctxt "8f8d7dac217f491ef9becf2fd8298108"
+msgid "S \"Oh.\""
+msgstr ""
+
+msgctxt "c01ed54aae508591e589d8861423ab1e"
+msgid "\"I wanted to know from Michelle what she felt about me.\""
+msgstr ""
+
+msgctxt "99f311b564c6e52016af9dab9581bf7a"
+msgid ""
+"\"I had always been confident about my intuition, but I didn't want to ruin "
+"the already perfect day I had.\""
+msgstr ""
+
+msgctxt "c7aff02817c7107d13bd8aae2846eeb6"
+msgid "\"I was content.\""
+msgstr ""
+
+msgctxt "158a3122f73085b68b1d843c5f9cf086"
+msgid "\"I didn't want to push Michelle away again like I had done last time.\""
+msgstr ""
+
+msgctxt "ac074dab5d80307caeaeb53af1fe5beb"
+msgid "M \"Sam?\""
+msgstr ""
+
+msgctxt "96abf66945814bb8e776712bd24a0b53"
+msgid "S \"Michelle?\""
+msgstr ""
+
+msgctxt "bd3dd023463ba8f7ca1f8a9b27fba3ed"
+msgid "\"I felt Michelle hold onto me from behind.\""
+msgstr ""
+
+msgctxt "f48936e6b871572b216a689024db0f10"
+msgid "\"I turned to face her.\""
+msgstr ""
+
+msgctxt "1a5e559e9de9bc45c447e30b6b3c9b74"
+msgid "\"She asked me quietly with anticipation in her voice,\""
+msgstr ""
+
+msgctxt "936e6e73dadcc2d957f7ca80409ecb28"
+msgid "\"\\\"How do you feel about me?\\\"\""
+msgstr ""
+
+msgctxt "bade80291071b222bece5d0d604584fe"
+msgid "M \"Forget it...\""
+msgstr ""
+
+msgctxt "0ef0e9ed71b784a27605c861e38c84de"
+msgid "M \"It's nothing.\""
+msgstr ""
+
+msgctxt "6487dccbb5f4468b440bda9a9b28cbfb"
+msgid "\"I shouldn't hesitate.\""
+msgstr ""
+
+msgctxt "cb73c4929b74ab79e12606c94ce5ad1e"
+msgid "\"I should tell her how I felt.\""
+msgstr ""
+
+msgctxt "390ab6e02af5a7337e5e5d60e26e61b2"
+msgid "S \"I...\""
+msgstr ""
+
+msgctxt "51450048e07fb3dcc8080281d9ef29fa"
+msgid "S \"I like you.\""
+msgstr ""
+
+msgctxt "a568ffccfdd86f4e93f16e3bb436b2bd"
+msgid "M \"What do you mean?\""
+msgstr ""
+
+msgctxt "06644050f8a65aa002079461d9fa5d42"
+msgid "S \"I would like us to be more than this.\""
+msgstr ""
+
+msgctxt "2ab2c6f146a95ca254b2bf569edc7b12"
+msgid "M \"More?\""
+msgstr ""
+
+msgctxt "1f508369012385297812d19793bc5e4f"
+msgid "S \"If it's something possible with you.\""
+msgstr ""
+
+msgctxt "706193cd940eb700f2271d8dab4be26c"
+msgid "M \"It's... It's impossible.\""
+msgstr ""
+
+msgctxt "6d72cf4a3280e3c250f0192c0dd86802"
+msgid "M \"We're both...\""
+msgstr ""
+
+msgctxt "aac10ca149bd78ac4b116a2794619e60"
+msgid "M \"I just think...\""
+msgstr ""
+
+msgctxt "160d595f2c3afb2b042ee5810c7f8a3b"
+msgid "S \"Michelle, look at me.\""
+msgstr ""
+
+msgctxt "30a5dd5551e4a803244e0afd091e8355"
+msgid "\"I wanted to express...\""
+msgstr ""
+
+msgctxt "8883723325197540394a4d6b46de5e4e"
+msgid "\"What I couldn't say in words.\""
+msgstr ""
+
+msgctxt "b8e9045a8fc3983dcd2183037eaa1004"
+msgid "\"Was I unfair to Michelle?\""
+msgstr ""
+
+msgctxt "c9e05233d9fc44e59840446fa6cdd85c"
+msgid "\"I adore Michelle.\""
+msgstr ""
+
+msgctxt "6f7f9c5b2093cdf3205cba53972fb4c3"
+msgid "\"I didn't want to make her unhappy.\""
+msgstr ""
+
+msgctxt "35e0ee7599c1e093429a926d557c35a6"
+msgid "\"If I could ask one more thing...\""
+msgstr ""
+
+msgctxt "e50c9332a9af6fb904e20273b520007b"
+msgid "\"I wanted Michelle to want me too.\""
+msgstr ""
+
+msgctxt "7f9a22208e1bc643290aaced26eeeff4"
+msgid "\"I had woken up with Michelle in my arms.\""
+msgstr ""
+
+msgctxt "3a6d4c1ae7be60a98c2511ca9e4039bb"
+msgid "\"The room where I normally slept alone was filled with her presence.\""
+msgstr ""
+
+msgctxt "dc08613bd39ed3ab7bfae33c611cf9d9"
+msgid "\"Michelle slept in my arms.\""
+msgstr ""
+
+msgctxt "c53bf8377300d8c725804eb23b480b0f"
+msgid "\"Her touch was warm and soft.\""
+msgstr ""
+
+msgctxt "7e82ac7e669778e34b4b8d3b9a3666e9"
+msgid ""
+"\"The way her body rested against mine felt like we were made for each other."
+"\""
+msgstr ""
+
+msgctxt "0454481ec32111d671d1f4fab284eef5"
+msgid "\"Would she want to eat breakfast with me?\""
+msgstr ""
+
+msgctxt "bd9d3a8dc78a0b50312d9a405e8a7139"
+msgid "\"Would she want to spend the day with me?\""
+msgstr ""
+
+msgctxt "87c436adc49f1f1b420cca37893fdfa5"
+msgid "\"Michelle slept like an angel.\""
+msgstr ""
+
+msgctxt "0ab43870c8d74bb72190a9972a5781d5"
+msgid "\"I shouldn’t wake her up just yet.\""
+msgstr ""
+
+msgctxt "640e086e5aaf0fcc52c253f2901bf1e8"
+msgid ""
+"\"It was sometime later in the morning that I felt Michelle fidgeting in my "
+"arms.\""
+msgstr ""
+
+msgctxt "8eaed3af307f9bc1206e5d3e9f5c4b3d"
+msgid "\"She sighed softly.\""
+msgstr ""
+
+msgctxt "ff58bfe042f7c48c3d4e141e53fa24dd"
+msgid "\"She must have been waking up.\""
+msgstr ""
+
+msgctxt "e6d4518bf31b187e8468d7a43aa2814c"
+msgid "\"She turned to her side with her back towards me.\""
+msgstr ""
+
+msgctxt "0fb8095cd4d9a236baf7939c891e198c"
+msgid ""
+"\"Her tousled hair fell along her jawline and laid on her shoulders and neck."
+"\""
+msgstr ""
+
+msgctxt "d7786f1ef09a35a5e2749ee68aa8e208"
+msgid "\"I wanted to trace my fingers along her bare skin.\""
+msgstr ""
+
+msgctxt "3fd3747781094c72bbfc20d00f8d3c5f"
+msgid "\"Michelle seemed so delicate in my arms.\""
+msgstr ""
+
+msgctxt "45d07fec45c82a10ef8557af2b3adaf2"
+msgid "\"I wanted to hold her closer.\""
+msgstr ""
+
+msgctxt "a562570176aeddd4b1c508f67e39a63e"
+msgid "\"I wanted to call out her name.\""
+msgstr ""
+
+msgctxt "316f60c32e5099c1c53e860811e968d9"
+msgid "M \"Hm...?\""
+msgstr ""
+
+msgctxt "b4b543a9f9a8e4e689333f8450367265"
+msgid "S \"Michelle, I like you.\""
+msgstr ""
+
+msgctxt "24dc908e1750fc706a4d1ded44d09ca2"
+msgid "\"Michelle slowly turned to face me.\""
+msgstr ""
+
+msgctxt "d47d60d1d2ec4cdbf9546cd49d058d33"
+msgid "\"I said to her what I felt sincerely from my heart.\""
+msgstr ""
+
+msgctxt "7c35a00ef6fd4f6c57c9d2282ef126d0"
+msgid "\"I wanted to cherish this time we had together.\""
+msgstr ""
+
+msgctxt "9e2d220138f2ab1e655319993915b2e0"
+msgid ""
+"\"I brushed back the hair covering her eyes. I wanted to express to her my "
+"affection.\""
+msgstr ""
+
+msgctxt "5c5203b4698314453bc2fd83c0d05702"
+msgid "\"I was bursting with happiness to be with her like this.\""
+msgstr ""
+
+msgctxt "cfddb184b042385bec37125485af9fd7"
+msgid "\"Everything that had happened yesterday was so wonderful.\""
+msgstr ""
+
+msgctxt "072e5492cfe3624a31fce2f079342021"
+msgid "\"Michelle struggled to say something.\""
+msgstr ""
+
+msgctxt "4cdb630967a12f4f82c939e1b3e23c75"
+msgid "\"I had felt her stiffen in my arms.\""
+msgstr ""
+
+msgctxt "325e78f6745707408e227aa12fb3ff79"
+msgid "\"Her expression darkened. She looked teary-eyed.\""
+msgstr ""
+
+msgctxt "a0d240b81dc3d9510c4b9239a83a432a"
+msgid "\"Did she not feel the same way?\""
+msgstr ""
+
+msgctxt "892ff4af92040ba6c4bd728578309161"
+msgid "M \"I have to go.\""
+msgstr ""
+
+msgctxt "3b587d91e9e6ae4928f9a9eef25ef7b1"
+msgid "S \"Michelle.\""
+msgstr ""
+
+msgctxt "8a8b8de7b02ec8e783806c6b3c6470c9"
+msgid "S \"Please, Michelle.\""
+msgstr ""
+
+msgctxt "f02b79bc63dcd18980a4652a7f5561a4"
+msgid "S \"Please stay.\""
+msgstr ""
+
+msgctxt "aff2205effcaf27fe744591e0776a8ec"
+msgid "S \"We can spend the day together.\""
+msgstr ""
+
+msgctxt "810f5ee50bc4e9c3bffb6d9979516131"
+msgid "S \"Don’t be quiet like this. Talk to me.\""
+msgstr ""
+
+msgctxt "8d2d871a71d000a8a58d78d4773b968c"
+msgid "M \"I...\""
+msgstr ""
+
+msgctxt "14a6754d55ded516bf804b07fd9295dd"
+msgid "M \"I can’t be like this with you.\""
+msgstr ""
+
+msgctxt "c6cec0047c874b2830e7ef887581f4d3"
+msgid "\"A pang had rung in my heart.\""
+msgstr ""
+
+msgctxt "d45916c66db122f3bf6aa7e9308ae457"
+msgid "M \"I just... I just can't.\""
+msgstr ""
+
+msgctxt "5808e042d3ebbd01ef8273435d7e390c"
+msgid "S \"Michelle...\""
+msgstr ""
+
+msgctxt "240b19556edb185ad017e5d89864e62b"
+msgid "M \"Don't Sam...\""
+msgstr ""
+
+msgctxt "edc5a0e233daace4df3887c306273c71"
+msgid "M \"Any more than this... We can't...\""
+msgstr ""
+
+msgctxt "d99834261610ab8be5df96c3f236d6a0"
+msgid "M \"I’m getting dressed.\""
+msgstr ""
+
+msgctxt "1d30095d9a48d5f087e92f5685a43b21"
+msgid "\"I suppose it couldn't be anything more than this.\""
+msgstr ""
+
+msgctxt "b46dd787bc9a99ad12cc0a7e50739223"
+msgid "\"I watched Michelle dress quietly.\""
+msgstr ""
+
+msgctxt "c755dac578cd14e707789b0c84974048"
+msgid "\"I didn’t want her to know that I was hurt.\""
+msgstr ""
+
+msgctxt "8872ac8c91322de641626de4a212d47a"
+msgid "\"Michelle made her choice.\""
+msgstr ""
+
+msgctxt "f8af30cf4a45f75dc5cf4df7bd453a27"
+msgid "\"I was losing her.\""
+msgstr ""
+
+msgctxt "3715c948a3cfc3d9c9f7dcbf1dfeee7f"
+msgid "\"What could I have done to stop her?\""
+msgstr ""
+
+msgctxt "cdce5a28d350520f9c16b813170efb51"
+msgid "\"I saw Michelle leave in a taxi from my balcony window.\""
+msgstr ""
+
+msgctxt "445ce0a0506f7f23a1f8480c112f0cd2"
+msgid ""
+"\"This time, bittersweet tears streamed from my eyes as I watched her leave."
+"\""
+msgstr ""
+
+msgctxt "9467a38fc7893b561026e7ad6bf417c0"
+msgid "\"Had this heart pounding romance come to a close already?\""
+msgstr ""
+
+msgctxt "cd87bcb3fdbe14d50998fd64f52f65c4"
+msgid "\"I cried all that morning.\""
+msgstr ""
+
+msgctxt "3b1fdd22011e64f1c6e15bdc6475f5e2"
+msgid "\"Michelle calmly walked out of my life.\""
+msgstr ""
+
+msgctxt "3ad4630b120c131c09c513ef30ac3925"
+msgid "\"There was no melodrama, nor any fanfare.\""
+msgstr ""
+
+msgctxt "014d273e00b060f782c18f2469c7913d"
+msgid "\"It was a simple, objective end.\""
+msgstr ""
+
+msgctxt "c40993501a9772abe92ecd712e6c3464"
+msgid "\"I wish it didn't have to be this way.\""
+msgstr ""
+
+msgctxt "b986b3e87f42e043a4f4c52629e05ae9"
+msgid "\"If there was a chance I'd see Michelle again,\""
+msgstr ""
+
+msgctxt "ccf8cefe78c06a90753ce47aec994595"
+msgid "\"I hope I would be strong enough to...\""
+msgstr ""
+
